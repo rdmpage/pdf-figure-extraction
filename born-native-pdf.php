@@ -362,24 +362,10 @@ function ris_import($reference)
 		
 		echo "Done getting figures\n";
 		
-		// Figures
-		$html = '';
-		$html .= '<html>';
-		foreach ($figures as $figure)
-		{
-			$html .= '<img style="border:1px solid rgb(192,192,192);padding:10px;" height="200" src="' . $config['cache_dir'] . '/' . $figure->href . '" />';
-			$html .= '<p>' . $figure->caption . '</p>';	
-		}
-
-		$html .= '</html>';
-		
-		file_put_contents($base_name . '-figures.html', $html);
-		
 		// Export to JATS XML, use consistent naming for article
 		
 		print_r($reference);
-		
-		
+				
 		print_r($figures);
 		
 		// Identifier for article

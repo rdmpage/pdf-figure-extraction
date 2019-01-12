@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Proceedings of The California Academy of Sciences</journal-title>
+      </journal-title-group>
+      <issn>0068-547X</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0068-547X2007005800121</article-id>
+      <title-group>
+        <article-title>Anisotes (Acanthaceae) in Madagascar</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Daniel, Thomas F</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Mbola, Balzac A V</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Almeda, Frank</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Phillipson, Peter B</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>11</day>
+        <month>5</month>
+        <year>2007</year>
+      </pub-date>
+      <volume>58</volume>
+      <issue>8</issue>
+      <fpage>121</fpage>
+      <lpage>131</lpage>
+      <abstract>
+        <p>Two species of Anisotes (Acanthaceae: Justicieae) are recognized from Madagascar. Anisotes madagascariensis is endemic to sandy, coastal regions of southern Madagascar. New morphological, distributional, and ecological data are presented for this species. A newly described species, A. divaricatus, is known only from calcareous, rocky substrates near Lake Tsimanampetsotsa in southwestern Madagascar. Major morphological distinctions between A. divaricatus and A. madagascariensis include: habit (divaricate branches vs. ascendant branches); length (5&#x2013;11 vs. 14&#x2013;45 mm long) and shape (obcordate to obdeltate vs. broadly ovate to elliptic) of leaf blades; corolla form (corolla tube:corolla 0.46&#x2013;0.56 vs. 0.23&#x2013;0.38; lower lip not spirally coiled vs. spirally coiled); and capsule pubescence (lacking trichomes vs. trichomes present). Images of flowers and pollen, morphological descriptions, and mapped distributions are provided for both species.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>FIGURE 1</label>
+      <caption>Flowers of Anisotes divaricatus (a&#x2013;b) and A. madagascariensis (c). a. Almeda 9237, scale = 4 mm, photo by F. Almeda. b. Almeda 9237, scale = 5 mm, photo by H. Mally. c. Almeda 7705, scale = 8 mm, photo by F. Almeda.</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>FIGURE 2</label>
+      <caption>Map of southwestern Madagascar showing distributions of A. divaricatus and A. madagascariensis.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>FIGURE 3</label>
+      <caption>Pollen of Anisotes divaricatus (a, b; Almeda 9237) and A. madagascariensis (c, d; Daniel et al. 10422 ). a. apertural view. b. interapertural view. c. apertural view. d. interapertural view. Scale lines = 10 &#xB5;m.</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>FIGURE 4</label>
+      <caption>Anisotes divaricatus. a. Habit (Leandri &amp; Saboureau 4441), &#xD7; 0.5. b. Leaf (abaxial surface), &#xD7; 2.1, with close- up of pubescence, &#xD7; 16 (Leandri &amp; Saboureau 4441). c. Inflorescence nodes with corollas removed (Bosser 1762), &#xD7; 8. d. Flower (Bosser 15609 &amp; Perrier de la B&#xE2;thie 19156), &#xD7; 1.7. e. Distal portion of stamen (Perrier de la B&#xE2;thie 19156), &#xD7; 7.8. f. Capsule (Perrier de la B&#xE2;thie 19156), &#xD7; 3. g. Seed (Perrier de la B&#xE2;thie 19156), &#xD7; 3.5. Drawn by Erin Hunter.</caption>
+      <graphic position="float" xlink:href="image-4.png"/>
+    </fig>
+  </body>
+</article>

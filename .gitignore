@@ -1,2 +1,7 @@
 
 .DS_Store
+
+cache/*
+
+output/*.json
+output/*.svg
