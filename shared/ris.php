@@ -238,6 +238,8 @@ function process_ris_key($key, $value, &$obj)
 		// Mendeley 0.9.9.2
 		case 'DO':
 			$obj->doi = $value;
+			
+			$obj->doi = preg_replace('/https?:\/\/(dx.)?doi.org\//', '', $obj->doi);
 			break;
 			
 		default:
