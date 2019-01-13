@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Botanical Studies (Taipei)</journal-title>
+      </journal-title-group>
+      <issn>1817-406X</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1817-406X2012005300415</article-id>
+      <title-group>
+        <article-title>Amorphophallus natolii (Araceae), a new species from limestone on Palawan, Philippines</article-title>
+      </title-group>
+      <pub-date pub-type="ppub">
+        <year>2012</year>
+      </pub-date>
+      <volume>53</volume>
+      <issue>3</issue>
+      <fpage>415</fpage>
+      <lpage>420</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Plate 1</label>
+      <caption>1a: Amorphophallus natolii: habit of spathe and spadix; 1b: Amorphophallus natolii: spathe and lower part of spadix in detail; 1c: Amorphophallus natolii: lower part of spadix, showing female (below) and male zone (above), the latter with a few hairlike stamin- odes; 1d: Amorphophallus natolii: female zone (detail) showing shape of the pistils. All photographs by Andreas Wistuba.</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 1</label>
+      <caption>The Continental Asia-I clade of Amorphophallus, showing in colour all species with hairs on the appendix. Solid arrows: the species with the appendix densely covered with staminodes. open arrow: the one species with always loosely set staminodes on the appendix (A. cirrifer). dotted branches: the species with occasionally staminodes on the appendix.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+  </body>
+</article>

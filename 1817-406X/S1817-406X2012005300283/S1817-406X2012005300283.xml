@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Botanical Studies (Taipei)</journal-title>
+      </journal-title-group>
+      <issn>1817-406X</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1817-406X2012005300283</article-id>
+      <title-group>
+        <article-title>Begonia chongzuoensis (sect. Coelocentrum, Begoniaceae), a new calciphile from Guangxi, China</article-title>
+      </title-group>
+      <pub-date pub-type="ppub">
+        <year>2012</year>
+      </pub-date>
+      <volume>53</volume>
+      <issue>2</issue>
+      <fpage>283</fpage>
+      <lpage>290</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Figure 1</label>
+      <caption>Begonia chongzuoensis Yan Liu, S. M. Ku &amp; C.-I Peng. A, Habit; B, Portion of leaf, adaxial surface showing margin and indumentum, B&#x2019;, abaxial surface; C, Stipule; D, Bracts; E, Staminate flower; F, Androecium; G, Stamens; H, Carpellate flower, face view; I, J, Style and stigmas; K, Cross section at middle of young fruit; L, Seed. All from C.-I Peng et al. 20390 (HAST).</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 2</label>
+      <caption>Begonia chongzuoensis Yan Liu, S. M. Ku &amp; C.-I Peng. A, Habitat; B, Habit; C, Stipules, a: adaxial surface, b: abaxial sur- face; D, Staminate and carpellate flowers; E, Carpellate flower, face view; F, Carpellate flower, side view; G, Cross section at middle of young fruit; H, Fruit; I, Seed SEM microphotograph. All from C.-I Peng et al. 20390 (HAST).</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Figure 4</label>
+      <caption>Distribution of Begonia chongzuoensis () in Guangxi Zhuangzu Autonomous Region, China.</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Figure 3</label>
+      <caption>Somatic chromosomes at metaphase of Begonia chongzuoensis, 2n = 30 (from C.-I Peng et al. 20390-A). A, Microphotograph. Arrows indicate longer metacentric chromosomes in the complement; B, Somatic chromosomes serially arranged by length and position of centromeres. Scale bars = 2 &#xB5;m.</caption>
+      <graphic position="float" xlink:href="image-4.png"/>
+    </fig>
+    <fig id="F5" position="float">
+      <label>Figure 5</label>
+      <caption>Begonia leaf SEM microphotographs. A-C, Begonia chongzuoensis; D-F, B. obliquifolia; A, D, Trichomes on upper epidermis; B, E, Lamina, cross section; C, F, Trichomes on lower epidermis.</caption>
+      <graphic position="float" xlink:href="image-5.png"/>
+    </fig>
+    <fig id="F6" position="float">
+      <label>Figure 6</label>
+      <caption>Begonia obliquifolia S. H. Huang &amp; Y. M. Shui. A, B, Habit and habitat; C, Specimen; D, Inflorescence, showing staminate flower; E, Carpellate flower from specimen; F, Fruit; G, Fruit, middle cross section; H, Seed SEM microphotograph. All but E from C.-I Peng et al. 20506 (HAST), E from Xiao-Bai Jin 165 (PE).</caption>
+      <graphic position="float" xlink:href="image-6.png"/>
+    </fig>
+  </body>
+</article>

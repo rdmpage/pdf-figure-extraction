@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>South African Journal of Botany</journal-title>
+      </journal-title-group>
+      <issn>0254-6299</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0254-62992014009400238</article-id>
+      <article-id pub-id-type="doi">10.1016/j.sajb.2014.07.007</article-id>
+      <title-group>
+        <article-title>The genus Distephanus (Asteraceae: Vernonieae) in southern Africa</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Swelankomo, N.</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Manning, J. C.</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>1</day>
+        <month>9</month>
+        <year>2014</year>
+      </pub-date>
+      <volume>94</volume>
+      <fpage>238</fpage>
+      <lpage>248</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 1</label>
+      <caption>Distephanus anisochaetoides, Ross 2393 (PRE).</caption>
+      <graphic position="float" xlink:href="image-4.jpg"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>In&#xFB02;orescence details of Distephanus anisochaetoides, Ross 2393 (PRE). Scale bar: 5 mm.</caption>
+      <graphic position="float" xlink:href="image-5.jpg"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig. 3</label>
+      <caption>Distribution of Distephanus anisochaetoides, &#x25CF;; and distribution in southern Africa of D. inhacensis, &#x25CB;.</caption>
+      <graphic position="float" xlink:href="image-6.png"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Fig. 4</label>
+      <caption>Distephanus inhacensis, Nicholson 920 (PRE).</caption>
+      <graphic position="float" xlink:href="image-7.jpg"/>
+    </fig>
+    <fig id="F5" position="float">
+      <label>Fig. 5</label>
+      <caption>In&#xFB02;orescence details of Distephanus inhacensis, Nicholson 920 (PRE). Scale bar: 5 mm.</caption>
+      <graphic position="float" xlink:href="image-8.jpg"/>
+    </fig>
+    <fig id="F6" position="float">
+      <label>Fig. 6</label>
+      <caption>Distephanus angulifolius, Codd 1503 (PRE).</caption>
+      <graphic position="float" xlink:href="image-9.jpg"/>
+    </fig>
+    <fig id="F7" position="float">
+      <label>Fig. 7</label>
+      <caption>In&#xFB02;orescence details of Distephanus angulifolius, Codd 1503 (PRE). Scale bar: 5 mm.</caption>
+      <graphic position="float" xlink:href="image-10.jpg"/>
+    </fig>
+    <fig id="F8" position="float">
+      <label>Fig. 8</label>
+      <caption>Distribution in southern Africa of Distephanus angulifolius, &#x25CF;; D. divaricatus, &#x25CB;; and D. angolensis, &#x25B2;.</caption>
+      <graphic position="float" xlink:href="image-11.png"/>
+    </fig>
+    <fig id="F9" position="float">
+      <label>Fig. 9</label>
+      <caption>Distephanus divaricatus, van Graan &amp; Hardy 533 (PRE).</caption>
+      <graphic position="float" xlink:href="image-12.jpg"/>
+    </fig>
+    <fig id="F10" position="float">
+      <label>Fig. 10</label>
+      <caption>In&#xFB02;orescence details of Distephanus divaricatus, van Graan &amp; Hardy 533 (PRE). Scale bar: 5 mm.</caption>
+      <graphic position="float" xlink:href="image-13.jpg"/>
+    </fig>
+    <fig id="F11" position="float">
+      <label>Fig. 11</label>
+      <caption>Distephanus angolensis, Meyer 1288 (PRE).</caption>
+      <graphic position="float" xlink:href="image-14.jpg"/>
+    </fig>
+    <fig id="F12" position="float">
+      <label>Fig. 12</label>
+      <caption>In&#xFB02;orescence details of Distephanus angolensis, Meyer 1288 (PRE). Scale bar: 5 mm.</caption>
+      <graphic position="float" xlink:href="image-15.jpg"/>
+    </fig>
+  </body>
+</article>

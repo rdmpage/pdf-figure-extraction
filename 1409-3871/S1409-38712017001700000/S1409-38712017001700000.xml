@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Lankesteriana</journal-title>
+      </journal-title-group>
+      <issn>1409-3871</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1409-38712017001700000</article-id>
+      <article-id pub-id-type="doi">10.15517/lank.v17i1.28479</article-id>
+      <title-group>
+        <article-title>A showy new Platystele (Pleurothallidinae: Orchidaceae) from northwest Ecuador</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Jost, Lou</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Iturralde, Gabriel</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>17</volume>
+      <issue>1</issue>
+      <abstract>
+        <p>Resumen.&#xA0;Se describe una nueva especie de Platystele &#xA0;(Pleurothallidinae: Orchidaceae) de los bosques&#xA0;piemontanos de la provincia de Carchi en el noroccidente de Ecuador. Esta especie presenta flores relativamente&#xA0;grandes en relacio&#x301;n a la mayori&#x301;a de las especies del ge&#x301;nero, cuyas caudas de los se&#x301;palos son largas y delgadas. Es similar a Platystele caudatisepala pero se distingue de esa especie por sus se&#x301;palos laterales parcialmente&#xA0;connados, el labio convexo con la punta y ma&#x301;rgenes reflexos, los pe&#x301;talos deflexos, a veces tocando sus puntas hacia atra&#x301;s de la flor, los se&#x301;palos con ma&#x301;rgenes recurvados y las hojas largamente pecioladas. A bstract . A new species of Platystele (Pleurothallidinae: Orchidaceae) is described from foothill forest in the province of Carchi in northwestern Ecuador. The species has relatively large flowers for the genus, with long slender sepaline tails. It resembles Platystele caudatisepala , but is distinguished from that species by the partially connate lateral sepals, the convex lip with reflexed tip and margins, the deflexed petals, sometimes with their tips touching behind the flower, the sepals with recurved margins, and the leaves long-petiolate.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>FiGure 1</label>
+      <caption>Platystele baqueroi. A, plant. B, dissection. C, lip, frontal and lateral views. Drawing by Luis Baquero from the holotype.</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>FiGure 2</label>
+      <caption>Platystele baqueroi. A, frontal view. B, lateral view. Scale bars = 2.5 mm. Photographs of the specimen that served as the holotype by Luis Baquero.</caption>
+      <graphic position="float" xlink:href="image-2.jpg"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>FiGure 3</label>
+      <caption>Platystele baqueroi. A, dorsal sepal margin. B, detail of clavate cilia. Alcohol-preserved specimen (L. Baquero 3103). Photographs by Lou Jost.</caption>
+      <graphic position="float" xlink:href="image-3.jpg"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>FiGure 4</label>
+      <caption>Platystele baqueroi. Column and lip. A, column. B, lip. Alcohol-preserved specimen (L. Baquero 3103). Scale bar = 1 mm. Photograph by Lou Jost.</caption>
+      <graphic position="float" xlink:href="image-4.jpg"/>
+    </fig>
+  </body>
+</article>

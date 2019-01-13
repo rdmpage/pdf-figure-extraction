@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Taiwania</journal-title>
+      </journal-title-group>
+      <issn>0372-333X</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0372-333X2015006000039</article-id>
+      <article-id pub-id-type="doi">10.6165/tai.2015.60.39</article-id>
+      <title-group>
+        <article-title>&#xFF02;Hoya rostellata&#xFF02; (Apocynaceae: Asclepiadoideae), a New Species from Thailand</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Manit Kidyoo</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>1</day>
+        <month>3</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>60</volume>
+      <issue>1</issue>
+      <fpage>39</fpage>
+      <lpage>42</lpage>
+      <abstract>
+        <p>The new species &#xFF02;Hoya rostellata&#xFF02; Kidyoo (Apocynaceae: Asclepiadoideae) is described and illustrated. This plant is distributed in the western and northern parts of Thailand, usually grows on limestone rock and climbs up on tree in the forest edge. It is distinguished from the closest relative, &#xFF02;H. siamica&#xFF02; Kerr by leaf shape, leaf base, leaf apex, presence of vein and habitats.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 1</label>
+      <caption>Illustrations of Hoya rostellata Kidyoo. A: Flowering branch. B: Blooming flower, side view. C: Blooming flower, top view. D: Corona, bottom view. E: Calyx. F: Pollinarium. Drawn by Manit Kidyoo from M. Kidyoo 1590.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>Photographs of Hoya rostellata Kidyoo. A-B: Habitat. C: Flowering branch. D: Inflorescence with flower buds. E: Inflorescence with blooming flowers.</caption>
+      <graphic position="float" xlink:href="image-3.jpg"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig 3</label>
+      <caption>Leaves of H. rostellata and H. siamica. A-C: H. rostellata, A: top view. B: side view. C: bottom view. D-H: H. siamica, D: specimen from Khao Yai National Park (D. Tungmunnithum 7). E: specimen from Phu Luang Wildlife Sanctuary (D. Tungmunnithum 16). F: specimen from Doi Inthanon National Park (D. Tungmunnithum 52). G: specimen from Doi Inthanon National Park (D. Tungmunnithum 41). H: specimen from Doi Suthep Pui National Park (M. Kidyoo1595).</caption>
+      <graphic position="float" xlink:href="image-4.jpg"/>
+    </fig>
+  </body>
+</article>

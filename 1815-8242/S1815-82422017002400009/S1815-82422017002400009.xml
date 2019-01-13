@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Arnaldoa</journal-title>
+      </journal-title-group>
+      <issn>1815-8242</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1815-82422017002400009</article-id>
+      <article-id pub-id-type="doi">10.22497/arnaldoa.241.24101</article-id>
+      <title-group>
+        <article-title>ESPECIES GINODIOICAS DE GENTIANELLA (GENTIANACEAE) EN COLOMBIA, ECUADOR Y PER&#xDA;, CON LA DESCRIPCI&#xD3;N DE G. QUIPUSCOANA, NUEVA ESPECIE DEL PER&#xDA;</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Pringle, James S</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>25</day>
+        <month>5</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>24</volume>
+      <issue>1</issue>
+      <fpage>9</fpage>
+      <lpage>18</lpage>
+      <abstract>
+        <p>Resumen Gentianella quipuscoana , una nueva especie del Per&#xFA;, la cual se describe aqu&#xED;, es aparentemente ginodioica. De los espec&#xED;menes vistos en este estudio, las flores de unos eran solamente pistiladas y las de otros eran bisexuales. En G. dacrydioides , del sur de Ecuador, las flores de algunas plantas son bisexuales, mientras que de otras son unisexualmente pistiladas, lo que indica que la especie tambi&#xE9;n es ginodioica. Palabras clave: Colombia, Ecuador, Gentianaceae, Gentianella , ginodioecia, Per&#xFA;. Abstract Gentianella quipuscoana , a new species from Peru described here, appears to be gynodioecious. Of the specimens seen in this study, some bore pistillate flowers only and others bore bisexual flowers. In G. dacrydioides , of southern Ecuador, the flowers of some plants are bisexual and those of other plants are unisexually pistillate, indicating that this species likewise is gynodioecious. Keywords: Colombia, Ecuador, Gentianaceae, Gentianella , gynodioecy, Peru.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 1</label>
+      <caption>Gentianella quipuscoana en Dpto. San Mart&#xED;n, Per&#xFA;. Fotografiada por Blanca Le&#xF3;n.</caption>
+      <graphic position="float" xlink:href="image-3.jpg"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>Gentianella quipuscoana, ejemplares de herbario, ilustrando variabilidad en el h&#xE1;bito.</caption>
+      <graphic position="float" xlink:href="image-4.jpg"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig. 3</label>
+      <caption>Gentianella quipuscoana. A. Hoja mediocaulinare. B. Parte del c&#xE1;liz. C. Parte de la corola de una flor pistilada, con estaminodios del tama&#xF1;o predominante. D. Pistilo funcional, de la misma flor. E. Estaminodio m&#xE1;s largo, con antera est&#xE9;ril. F. Parte de la corola de una flor bisexual, con un estambre f&#xE9;rtil. G. Pistilo funcional de una flor bisexual. Todas vistas adaxiales. Dibujadas de Sagastegui A. et al. 16366, HAM (A-D), Quipuscoa S. et al. 2600, HAM (E), y Le&#xF3;n &amp; Young 5134, HAM (F-G).</caption>
+      <graphic position="float" xlink:href="image-5.jpg"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Fig. 4</label>
+      <caption>Gentianella dacrydioides. A-D. De una planta de flores unisexualmente pistiladas. A. Hoja mediocaulinare. B. Parte del c&#xE1;liz. C. Parte de la corola con estaminodio est&#xE9;ril. D. Pistilo receptivo. E-H. De una planta de flores bisexuales, en la fase estaminada. E. Parte del c&#xE1;liz. F. Parte de la corola con estambre f&#xE9;rtil, con la antera deflexa. G. Estambre f&#xE9;rtil con la antera en la posici&#xF3;n erguida. H. Pistilo. Dibujadas de van der Werff &amp; Gudi&#xF1;o 11445. HAM.</caption>
+      <graphic position="float" xlink:href="image-6.jpg"/>
+    </fig>
+  </body>
+</article>
