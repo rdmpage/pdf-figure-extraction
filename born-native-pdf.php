@@ -268,6 +268,14 @@ function get_pdf_filename($pdf)
 {
 	$filename = '';
 	
+	// http://bbr.nefu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3628	
+	if ($filename == '')
+	{
+		if (preg_match('/&(amp;)?id=(?<id>\d+)$/', $pdf, $m))
+		{
+			$filename = $m['id'] . '.pdf';
+		}
+	}	
 
 	// if no name use basename
 	if ($filename == '')
@@ -325,7 +333,9 @@ function ris_import($reference)
 		}
 		else
 		{				
-			$command = "curl --location '" . $reference->pdf . "' > '" . $article_pdf_filename . "'";
+			$command = "curl "
+				. "--user-agent \"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0\""
+				. "--location '" . $reference->pdf . "' > '" . $article_pdf_filename . "'";
 			echo $command . "\n";
 			system ($command);
 		}
@@ -352,13 +362,45 @@ function ris_import($reference)
 		
 		$xml_dir = $config['cache_dir']. '/' . $base_name . '.xml_data';
 		
-		$json_files = xml_to_json($xml_dir, true);
+		// to do: some PDFs need to have extraneous bits of text under or
+		// over images filtered, for others filtering breaks figure
+		// extraction
+		
+		$filter = false;
+		
+		switch ($reference->issn)
+		{
+			case '0068-547X':
+				$filter = true;
+				break;				
+		
+			default:
+				$filter = false;
+				break;				
+		}
+		
+		
+		$json_files = xml_to_json($xml_dir, $filter);
 		
 		// Block relationships
 		
 		echo "Getting figures\n";
 		
-		$figures = get_figures($json_files);
+		// to do: include style info to help inrease chance of getting a match
+		$centered = false;
+		
+		switch ($reference->issn)
+		{
+			case '0254-6299':
+				$centered = true;
+				break;				
+		
+			default:
+				$centered = false;
+				break;				
+		}
+		
+		$figures = get_figures($json_files, $centered);
 		
 		echo "Done getting figures\n";
 		
