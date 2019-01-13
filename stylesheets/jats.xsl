@@ -6,7 +6,7 @@
 <xsl:template match="/">
 	<body style="font-family:sans-serif;padding:20px;">
 	<div>
-	<div style="width:800px;">
+	<div>
 	
 	<p style="font-size:80%">
 		<xsl:value-of select="//journal-meta/journal-title-group/journal-title" />
@@ -125,7 +125,13 @@
 		<xsl:when test="@pub-id-type='doi'">
 			<li>
 				<xsl:text>DOI:</xsl:text>
-				<xsl:value-of select="." />
+				<a>
+					<xsl:attribute name="href">
+						<xsl:text>https://doi.org/</xsl:text>
+						<xsl:value-of select="." />
+					</xsl:attribute>				
+					<xsl:value-of select="." />
+				</a>
 			</li>
 		</xsl:when>
 		<xsl:when test="@pub-id-type='pmid'">
@@ -180,7 +186,7 @@
 
 <xsl:template match="graphic">
 	<div>
-		<img style="width:300px;border:1px solid rgb(192,192,192);">
+		<img style="width:300px;border:1px solid rgb(192,192,192);padding:5px;">
 			<xsl:attribute name="src">			
 			<xsl:value-of select="@xlink:href" /> 
 			</xsl:attribute>
