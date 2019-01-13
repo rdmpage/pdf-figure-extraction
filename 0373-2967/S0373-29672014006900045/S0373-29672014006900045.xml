@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Candollea</journal-title>
+      </journal-title-group>
+      <issn>0373-2967</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0373-29672014006900045</article-id>
+      <article-id pub-id-type="doi">10.15553/c2014v691a5</article-id>
+      <title-group>
+        <article-title>Taxonomy of Anisotes Nees (Acanthaceae: Justicieae) in the Comoros Archipelago and a preliminary List of Acanthaceae in the Islands</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Thomas F. Daniel</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2014</year>
+      </pub-date>
+      <volume>69</volume>
+      <fpage>45</fpage>
+      <lpage>54</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 1</label>
+      <caption>&#x2013; Comoros Archipelago (Union of the Comoros and Mayotte) showing distributions of Anisotes comorensis (Lindau) T. F. Daniel and A. mayottensis T. F. Daniel. The exact location of the sole collection of A. comorensis (Lindau) T. F. Daniel from Grande Comore is unknown.</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>&#x2013; Pollen of Anisotes Nees in the Comoros Archipelago. A-B. Anisotes mayottensis T. F. Daniel ; C-D. A. comorensis (Lindau) T. F. Daniel ; A. Apertural view ; B. Interapertural view ; C. Apertural view ; D. Interapertural view.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+  </body>
+</article>

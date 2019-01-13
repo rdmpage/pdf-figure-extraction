@@ -17,7 +17,8 @@ Journal specific things:
 
 ### Works
 - Arnaldoa 1815-8242
-- Botanical Studies (Taipei) 1817-406X
+- Botanical Studies (Taipei) 1817-406
+- Garden’s Bulletin Singapore 0374-7859
 - Lankesteriana 1409-3871
 - Muelleria 0077-1813
 - Proceedings of The California Academy of Sciences 0068-547X
@@ -29,6 +30,8 @@ Journal specific things:
 
 - Bothalia (complex multipart pictures) 0006-8241
 - Bull. Bot. Res., Harbin (Chinese text, images not extracted by pdftoxml) 1673-5102
+- Candollea 0373-2967 (figure captions small and left aligned, current code doesn’t find figs 3 and 4)
+
 
 
 
