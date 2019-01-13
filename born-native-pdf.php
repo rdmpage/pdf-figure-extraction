@@ -276,6 +276,15 @@ function get_pdf_filename($pdf)
 			$filename = $m['id'] . '.pdf';
 		}
 	}	
+	
+	// http://plantnet.rbgsyd.nsw.gov.au/emuwebnswlive/objects/common/webmedia.php?irn=79359&reftable=ebibliography
+	if ($filename == '')
+	{
+		if (preg_match('/irn=(?<id>\d+)/', $pdf, $m))
+		{
+			$filename = $m['id'] . '.pdf';
+		}
+	}	
 
 	// if no name use basename
 	if ($filename == '')

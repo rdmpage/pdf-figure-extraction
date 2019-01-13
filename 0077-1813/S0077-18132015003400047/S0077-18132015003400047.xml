@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Muelleria</journal-title>
+      </journal-title-group>
+      <issn>0077-1813</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0077-18132015003400047</article-id>
+      <title-group>
+        <article-title>A new species Grevillea burrowa (Proteaceae) from the Burrowa-Pine Mountain National Park, North Eastern Victoria</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Molyneux, W M</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Forrester, S G</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2015</year>
+      </pub-date>
+      <volume>34</volume>
+      <fpage>47</fpage>
+      <lpage>54</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Figure 1</label>
+      <caption>Grevillea burrowa, illustrating the subacute perianth limb face often found in plants sympatric with plants with an obtuse perianth limb face</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 2</label>
+      <caption>Distribution of G. brevifolia (square); G. burrowa (triangle); G. oxyantha subsp. ecarinata (closed circle); G. oxyantha subsp. oxyantha (diamond); G. victoriae subsp. nivalis (open circle); G. victoriae subsp. brindabella (star)</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+  </body>
+</article>

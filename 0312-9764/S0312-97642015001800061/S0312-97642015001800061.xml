@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Telopea</journal-title>
+      </journal-title-group>
+      <issn>0312-9764</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0312-97642015001800061</article-id>
+      <article-id pub-id-type="doi">10.7751/telopea8469</article-id>
+      <title-group>
+        <article-title>Goodenia effusa (Goodeniaceae), a new species from north Queensland, Australia</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Ailsa Holland</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2015</year>
+      </pub-date>
+      <volume>18</volume>
+      <fpage>61</fpage>
+      <lpage>66</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 1</label>
+      <caption>Illustration of Goodenia effusa: A, habit; B, mature flower (partly dissected), showing pedicel, calyx, corolla and indusium; C, adaxial corolla lobe with auricle; D,E, indusium (lateral view); F, fruit, in situ, showing pedicel and capsule extending beyond calyx ; G, seed. a from McDonald 6184 (BRI); b,c,d,e from McDonald 5582 (BRI); f,g from McDonald 2247 (BRI). Illustration: Will Smith.</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>Goodenia effusa early flower with corolla lobe auricles overlapping and hiding the indusium. The corolla lobe wings have obtuse apices in this specimen (photograph: Keith McDonald &#x2013; McDonald 115500).</caption>
+      <graphic position="float" xlink:href="image-4.jpg"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig. 3</label>
+      <caption>Distribution of Goodenia effusa in northern Queensland, Australia, with highways (grey lines); insert map (upper right) detail showing distribution between Cairns and Croydon.</caption>
+      <graphic position="float" xlink:href="image-5.png"/>
+    </fig>
+  </body>
+</article>

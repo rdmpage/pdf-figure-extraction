@@ -19,14 +19,16 @@ Journal specific things:
 - Arnaldoa 1815-8242
 - Botanical Studies (Taipei) 1817-406X
 - Lankesteriana 1409-3871
+- Muelleria 0077-1813
 - Proceedings of The California Academy of Sciences 0068-547X
 - South African Journal of Botany (Elsevier open access) 0254-6299
-- Taiwania 0372-333X (issues using curl to get file)
+- Taiwania 0372-333X (issues using curl to get file, need user-agent)
+- Teleopea 0312-9764
 
 ### Fails
 
 - Bothalia (complex multipart pictures) 0006-8241
-- Bull. Bot. Res., Harbin (Chinese text) 1673-5102
+- Bull. Bot. Res., Harbin (Chinese text, images not extracted by pdftoxml) 1673-5102
 
 
 
