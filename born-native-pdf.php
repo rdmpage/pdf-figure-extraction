@@ -312,6 +312,11 @@ function get_pdf_filename($pdf)
 		$filename = preg_replace('/\?.*$/', '', $filename);
 		
 	}
+	
+	if (!preg_match('/\.pdf$/', $filename))
+	{
+		$filename .= '.pdf';
+	}
 		
 	echo "filename=$filename\n";
 	
@@ -392,6 +397,7 @@ function ris_import($reference)
 		
 		switch ($reference->issn)
 		{
+			case '0006-5196': // Blumea
 			case '0068-547X':
 				$filter = true;
 				break;				
@@ -408,7 +414,7 @@ function ris_import($reference)
 		
 		echo "Getting figures\n";
 		
-		// to do: include style info to help inrease chance of getting a match
+		// to do: include style info to help increase chance of getting a match
 		$centered = false;
 		
 		switch ($reference->issn)
