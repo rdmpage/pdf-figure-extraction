@@ -268,6 +268,19 @@ function get_pdf_filename($pdf)
 {
 	$filename = '';
 	
+	// https://www.jstage.jst.go.jp/article/apg/66/2/66_KJ00010001424/_pdf/-char/en
+	if ($filename == '')
+	{
+		if (preg_match('/https?:\/\/www.jstage.jst.go.jp\/article\/(?<id>.*)$/', $pdf, $m))
+		{
+			$filename = $m['id'] . '.pdf';
+			
+			$filename = str_replace('/', '-', $filename);
+			
+			
+		}
+	}	
+	
 	// http://bbr.nefu.edu.cn/CN/article/downloadArticleFile.do?attachType=PDF&id=3628	
 	if ($filename == '')
 	{
@@ -342,9 +355,9 @@ function ris_import($reference)
 		}
 		else
 		{				
-			$command = "curl "
-				. "--user-agent \"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0\""
-				. "--location '" . $reference->pdf . "' > '" . $article_pdf_filename . "'";
+			$command = "curl"
+				. " --user-agent \"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0\""
+				. " --location '" . $reference->pdf . "' > '" . $article_pdf_filename . "'";
 			echo $command . "\n";
 			system ($command);
 		}
