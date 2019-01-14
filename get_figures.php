@@ -298,7 +298,7 @@ function get_figures($json_files, $centered = false)
 								$image_block = $cluster[0];
 							}
 							
-							if (preg_match('/^(Plate|Fig)/i', $obj->blocks[$text_block]->text))
+							if (preg_match('/^(Plate|Map|Fig)/i', $obj->blocks[$text_block]->text))
 							{							
 								$figure = new stdclass;
 								$figure->page_number = $page_number;
@@ -312,7 +312,7 @@ function get_figures($json_files, $centered = false)
 								$figure->caption = $obj->blocks[$text_block]->text;
 								
 								// can we get label?
-								if (preg_match('/(?<label>(Plate|Fig(\.|ure)?)\s+(?<number>\d+(-\d+)?))\.\s+(?<caption>.*)/ui', $figure->caption, $m))
+								if (preg_match('/(?<label>(Plate|Map|Fig(\.|ure)?)\s+(?<number>\d+(-\d+)?))\.\s+(?<caption>.*)/ui', $figure->caption, $m))
 								{
 									$figure->label = $m['label'];
 									$figure->number = $m['number'];
@@ -362,7 +362,7 @@ function get_figures($json_files, $centered = false)
 						{
 							if (count($text_blocks) == 1)
 							{
-								if (preg_match('/^(Plate|Fig)/i', $obj->blocks[$text_blocks[0]]->text))
+								if (preg_match('/^(Plate|Map|Fig)/i', $obj->blocks[$text_blocks[0]]->text))
 								{
 									foreach ($image_blocks as $image_block)
 									{
@@ -376,7 +376,7 @@ function get_figures($json_files, $centered = false)
 										$figure->caption = $obj->blocks[$text_blocks[0]]->text;
 										
 										// can we get label?
-										if (preg_match('/(?<label>(Plate|Fig(\.|ure)?)\s+(?<number>\d+(-\d+)?))\.\s+(?<caption>.*)/ui', $figure->caption, $m))
+										if (preg_match('/(?<label>(Plate|Map|Fig(\.|ure)?)\s+(?<number>\d+(-\d+)?))\.\s+(?<caption>.*)/ui', $figure->caption, $m))
 										{
 											$figure->label = $m['label'];
 											$figure->number = $m['number'];
