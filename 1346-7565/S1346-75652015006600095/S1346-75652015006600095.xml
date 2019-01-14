@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Acta Phytotaxonomica et Geobotanica</journal-title>
+      </journal-title-group>
+      <issn>1346-7565</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1346-75652015006600095</article-id>
+      <article-id pub-id-type="doi">10.18942/apg.KJ00010001424</article-id>
+      <title-group>
+        <article-title>Flora of Bokor National Park, Cambodia I : Thirteen New Species and One Change in Status</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Tagane, Shuichiro</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Toyama, Hironori</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Chhang, Phourin</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Nagamasu, Hidetoshi</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Yahara, Tetsukazu</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2015</year>
+      </pub-date>
+      <volume>66</volume>
+      <issue>2</issue>
+      <fpage>95</fpage>
+      <lpage>135</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 1</label>
+      <caption>Map of Bokor National Park. a, Locality of Bokor National Park in Cambodia; b, geography information on Bokor Pla- teau categorized by elevation range.</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>Heteropanax bokorensis Tagane &amp; Nagam. a, portion of branch; b, portion of inflorescence; c, flowering portion of umbel; d, staminate flower with petal removed. a&#x2013;d, Tagane et al. 4311, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig. 3</label>
+      <caption>Heteropanax bokorensis Tagane &amp; Nagam. a, branch with inflorescence; b, branch with leaf; c, habit; d, lower surface of leaf; e, top branch; f, portion of inflorescence; g, flower.</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Fig. 4</label>
+      <caption>Schefflera cambodiana Tagane. a, portion of flowering branch; b, flower. a &amp; b, Tagane et al. 6237, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-4.png"/>
+    </fig>
+    <fig id="F5" position="float">
+      <label>Fig. 5</label>
+      <caption>Schefflera cambodiana Tagane. a, branch with leaves; b, top branch; c, lower surface of leaf; d, inflorescence; e&#x2013;f, flow- ers.</caption>
+      <graphic position="float" xlink:href="image-5.png"/>
+    </fig>
+    <fig id="F6" position="float">
+      <label>Fig. 6</label>
+      <caption>Dichapetalum cambodianum Tagane &amp; Nagam. a. fruiting branch; b, lower surface of leaf; c, staminate flower with one stamen removed; d, fruit. a&#x2013;c, Tagane et al. 5506, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-6.png"/>
+    </fig>
+    <fig id="F7" position="float">
+      <label>Fig. 7</label>
+      <caption>Dichapetalum cambodianum Tagane &amp; Nagam. a, fruiting branch; b, lower surface of leaf; c&#x2013;e, staminate flowers; f, fruit.</caption>
+      <graphic position="float" xlink:href="image-7.png"/>
+    </fig>
+    <fig id="F8" position="float">
+      <label>Fig. 8</label>
+      <caption>Elaeocarpus bokorensis Tagane. a, flowering and fruiting branch; b, petal; c, flower with petals and anthers removed; d, anther. a&#x2013;d, Tagane et al. 4300, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-8.png"/>
+    </fig>
+    <fig id="F9" position="float">
+      <label>Fig. 9</label>
+      <caption>Elaeocarpus bokorensis Tagane. a, flowering branch; b, lower surface of leaf; c, inflorescence; d&#x2013;e, flower; f, fruit.</caption>
+      <graphic position="float" xlink:href="image-9.png"/>
+    </fig>
+    <fig id="F10" position="float">
+      <label>Fig. 10</label>
+      <caption>Croton phourinii H. Toyama &amp; Tagane. a, flowering branch; b, lower surface of leaf base showing basal glands; c, fruit; d, pistil flower; e, staminate flower. a&#x2013;e, Toyama et al. 3197, KYO. Drawn by C. Mitsuyuki.</caption>
+      <graphic position="float" xlink:href="image-10.png"/>
+    </fig>
+    <fig id="F11" position="float">
+      <label>Fig. 11</label>
+      <caption>Croton phourinii H. Toyama &amp; Tagane. a, habit; b, flowering branch; c, lower surface of leaf; d, pistillate flower; e, fruit; f&#x2013;g, staminate flower.</caption>
+      <graphic position="float" xlink:href="image-11.png"/>
+    </fig>
+    <fig id="F12" position="float">
+      <label>Fig. 12</label>
+      <caption>Lithocarpus eriobotryifolius Yahara. a, branch; b, top branch with lower surface of leaf; c, infructescence; d-e, acorn; f, variation of stellate hairs. a&#x2013;b, Yahara et al. 4411, KYO; c&#x2013;f, Tagane &amp; Chhang 5905, KYO. Drawn by K. Mase.</caption>
+      <graphic position="float" xlink:href="image-12.png"/>
+    </fig>
+    <fig id="F13" position="float">
+      <label>Fig. 13</label>
+      <caption>Lithocarpus eriobotryifolius Yahara. a, branch; b, lower surface of leaf; c, top branch with stipule; d&#x2013;e, infructescence; g, backside of acorn.</caption>
+      <graphic position="float" xlink:href="image-13.png"/>
+    </fig>
+    <fig id="F14" position="float">
+      <label>Fig. 14</label>
+      <caption>Cinnamomum bokorense Tagane &amp; Yahara. a, flowering branch; b, flower with petal removed; c, stamen from first whorl. a&#x2013;c, Tagane et al. 3941, KYO. Drawn by H. Kanemitsu.</caption>
+      <graphic position="float" xlink:href="image-14.png"/>
+    </fig>
+    <fig id="F15" position="float">
+      <label>Fig. 15</label>
+      <caption>Cinnamomum bokorense Tagane &amp; Yahara. a, flowering branch; b, lower surface of leaf; c, inflorescence; d, flowers.</caption>
+      <graphic position="float" xlink:href="image-15.png"/>
+    </fig>
+    <fig id="F16" position="float">
+      <label>Fig. 16</label>
+      <caption>Cinnamomum dimorphandrum Yahara &amp; Tagane. a, habit; b. fruiting branch; c, stamen from first whorl; d, stamen from third whorl. a&#x2013;d, Fuse et al. 6229, KYO. Drawn by K. Tagawa.</caption>
+      <graphic position="float" xlink:href="image-16.png"/>
+    </fig>
+    <fig id="F17" position="float">
+      <label>Fig. 17</label>
+      <caption>Lindera bokorensis Tagane &amp; Yahara. a, branch with flower bud; b, inflorescence; c, portion of flower; d, stamen from third whorl. a&#x2013;d, Yahara et al. 4427, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-17.png"/>
+    </fig>
+    <fig id="F18" position="float">
+      <label>Fig. 18</label>
+      <caption>Cinnamomum dimorphandrum Yahara &amp; Tagane (a&#x2013;c) and Lindera bokorensis Tagane &amp; Yahara (e&#x2013;f). a, habit; b, lower surface of leaf; c, inflorescence; d, branch with flower buds; e, lower surface of leaf.</caption>
+      <graphic position="float" xlink:href="image-18.png"/>
+    </fig>
+    <fig id="F19" position="float">
+      <label>Fig. 19</label>
+      <caption>Memecylon bokorensis Tagane. a, fruiting branch; b; flower dissection after petal dropped off; c, fruit. a&#x2013;c, Tagane et al. 4065, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-19.png"/>
+    </fig>
+    <fig id="F20" position="float">
+      <label>Fig. 20</label>
+      <caption>Memecylon bokorensis Tagane. a, fruiting branch; b, portion of abaxial leaf surface; c, inflorescence after anthesis; d, infructescence.</caption>
+      <graphic position="float" xlink:href="image-20.png"/>
+    </fig>
+    <fig id="F21" position="float">
+      <label>Fig. 21</label>
+      <caption>Syzygium elephantinum Tagane. a, flowering branch; b, inflorescence; c, hypanthium cup with style; d, flower with petal removed; e, fruit; f, seed. a&#x2013;d, Tagane et al. 4106, KYO; e&#x2013;f, Tagane &amp; Chhang 6210, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-21.png"/>
+    </fig>
+    <fig id="F22" position="float">
+      <label>Fig. 22</label>
+      <caption>Syzygium elephantinum Tagane. a, habit; b, flowering branch; c, lower surface of leaf; d, inflorescence; e, fruit.</caption>
+      <graphic position="float" xlink:href="image-22.png"/>
+    </fig>
+    <fig id="F23" position="float">
+      <label>Fig. 23</label>
+      <caption>Phyllanthus bokorensis Tagane. a, flowering branch; b, lower surface of leaf; c, portion of adaxial branch; d, staminate flower; e, stamen; f, pistillate flower; g, portion of fruiting branch. a-g, Tagane et al., 6336, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-23.png"/>
+    </fig>
+    <fig id="F24" position="float">
+      <label>Fig. 24</label>
+      <caption>Phyllanthus bokorensis Tagane. a, habit; b&#x2013;c, staminate flower; d, pistillate flower; e fruiting branch; f, top branch.</caption>
+      <graphic position="float" xlink:href="image-24.png"/>
+    </fig>
+    <fig id="F25" position="float">
+      <label>Fig. 25</label>
+      <caption>Ardisia smaragdinoides Yahara &amp; Tagane. a, branch with inflorescence; b, portion of inflorescence; c, flower; d, fruit. a&#x2013;b, Toyama et al 1694, KYO. Drawn by S. Yokota; c&#x2013;d, Tagane et al. 6028, KYO. Drawn by S. Tagane.</caption>
+      <graphic position="float" xlink:href="image-25.png"/>
+    </fig>
+    <fig id="F26" position="float">
+      <label>Fig. 26</label>
+      <caption>Ardisia smaragdinoides Yahara &amp; Tagane (a&#x2013;f) and Ardisia smaragdina Pit. (g). a, habitat; b, lower surface of leaf; c; flowering branch; d, fruit; e, inflorescence with white flower; f, inflorescence with pink flower; g, inflorescence.</caption>
+      <graphic position="float" xlink:href="image-26.png"/>
+    </fig>
+    <fig id="F27" position="float">
+      <label>Fig. 27</label>
+      <caption>Rhaphiolepis mekongensis (Cardot) Tagane &amp; H. Toyama. a, Flowering branch; b, flowers; c, ovary with stigma. a&#x2013;c, Tagane et al. 5483, KYO. Drawn by N. Toyama.</caption>
+      <graphic position="float" xlink:href="image-27.png"/>
+    </fig>
+    <fig id="F28" position="float">
+      <label>Fig. 28</label>
+      <caption>Rhaphiolepis mekongensis (Cardot) Tagane &amp; H. Toyama (a&#x2013;c) and Rhaphiolepis indica (L.) Lindl (d). a, Flowering branch; b, flowers; c and d, lower surface of leaf.</caption>
+      <graphic position="float" xlink:href="image-28.png"/>
+    </fig>
+  </body>
+</article>
