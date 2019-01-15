@@ -446,7 +446,15 @@ function ris_import($reference)
 		// Copy any extracted figures
 		if (isset($reference->issn))
 		{
-			$dir = dirname(__FILE__) . '/' . $reference->issn;
+			$dir = $config['journal_dir'];
+			if (!file_exists($dir))
+			{
+				$oldumask = umask(0); 
+				mkdir($dir, 0777);
+				umask($oldumask);
+			}
+
+			$dir = $dir . '/' . $reference->issn;
 			if (!file_exists($dir))
 			{
 				$oldumask = umask(0); 

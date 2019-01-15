@@ -16,7 +16,10 @@ Journal specific things:
 - whether we need to filter out text that overlaps with image
 
 ### Works
+- Acta Phytotaxonomica et Geobotanica 1346-7565
 - Arnaldoa 1815-8242
+- Austrobaileya 0155-4131
+- Blumea 0006-5196
 - Botanical Studies (Taipei) 1817-406
 - Garden’s Bulletin Singapore 0374-7859
 - Lankesteriana 1409-3871
@@ -31,6 +34,8 @@ Journal specific things:
 - Bothalia (complex multipart pictures) 0006-8241
 - Bull. Bot. Res., Harbin (Chinese text, images not extracted by pdftoxml) 1673-5102
 - Candollea 0373-2967 (figure captions small and left aligned, current code doesn’t find figs 3 and 4)
+- Thai Forest Bulletin (Botany) 0495-3843 (Composite figure causes problems, e.g. S0495-38432016004400128 )
+
 
 
 

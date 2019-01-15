@@ -20,6 +20,9 @@ $config['cache_dir'] 		= dirname(__FILE__) . '/cache';
 $config['pdftoxml']			= dirname(__FILE__) . '/pdftoxml/pdftoxml';
 $config['output_dir']		= dirname(__FILE__) . '/output';
 
+$config['journal_dir']		= dirname(__FILE__) . '/journal';
+
+
 // Zenodo---------------------------------------------------------------------------------
 
 if (1)

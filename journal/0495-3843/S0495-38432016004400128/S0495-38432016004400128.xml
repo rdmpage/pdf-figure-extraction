@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Thai Forest Bulletin (Botany)</journal-title>
+      </journal-title-group>
+      <issn>0495-3843</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0495-38432016004400128</article-id>
+      <article-id pub-id-type="doi">10.20531/tfb.2016.44.2.08</article-id>
+      <title-group>
+        <article-title>A new species of Nepenthes (Nepenthaceae) from Thailand</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Nuanlaong, Sanya</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Onsanit, Sarayut</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Chusangrach, Vutthipong</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Suraninpong, Potjamarn</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2016</year>
+      </pub-date>
+      <volume>44</volume>
+      <issue>2</issue>
+      <fpage>128</fpage>
+      <lpage>133</lpage>
+      <abstract>
+        <p>This paper describes and illustrates a new species of Nepenthaceae, Nepenthes krabiensis . The new species is closely related to N. rosea which has been found in the same habitat of the wildlife sanctuary of Krabi Province in Sothern Thailand.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <caption>Figure1. Morphology of Nepenthes krabiensis under stereo and light microscope. (A&#x2013;C and E&#x2013;I; 5x magnification, Bar = 0.1 mm and D; 20x magnification, Bar = 100 &#xB5;m) A. male flower contained tepal, nectar glands on the tepal surface, androphore and anther, B. anthers, C. longitudinal anther dehiscence, D. tetrad pollen; E. female flower contained tepal, nectar glands on the tepal surface, stigma and ovary, F. superior ovary with four syncarpous carpels, G. nectar gland in lower surface of lid, H. digestive glands in lower pitcher and I. brown hair at the stem.</caption>
+      <graphic position="float" xlink:href="image-8.jpg"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 2</label>
+      <caption>Nepenthes krabiensis. A. male inflorescence, B. upper pitcher, C. lid of lower pitcher, D. nectar gland, E. appendage of lower surface&#x2019;s lid, F. infructescence, G. habit, climbing stem with immature upper pitcher, mature lower pitcher and axillary bud, H. spur filiform, I. male flower, J. tetrad pollen, K. peristome of lower pitcher in transverse section, L. peristome-teeth and ridge of lower pitcher, M. ovary with transverse section. Drawn by Sunya Nuanlaong and Chayan Yodthammarat.</caption>
+      <graphic position="float" xlink:href="image-10.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Figure 3</label>
+      <caption>Nepenthes krabiensis. A. habitat and habit, B. male inflorescence (left) and female inflorescence (right), C. lower pitcher; D. upper pitcher.</caption>
+      <graphic position="float" xlink:href="image-13.jpg"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Figure 3</label>
+      <caption>Nepenthes krabiensis. A. habitat and habit, B. male inflorescence (left) and female inflorescence (right), C. lower pitcher; D. upper pitcher.</caption>
+      <graphic position="float" xlink:href="image-14.jpg"/>
+    </fig>
+  </body>
+</article>

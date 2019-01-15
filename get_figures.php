@@ -312,7 +312,7 @@ function get_figures($json_files, $centered = false)
 								$figure->caption = $obj->blocks[$text_block]->text;
 								
 								// can we get label?
-								if (preg_match('/(?<label>(Plate|Map|Fig(\.|ure)?)\s+(?<number>\d+(-\d+)?))\.\s+(?<caption>.*)/ui', $figure->caption, $m))
+								if (preg_match('/(?<label>(Plate|Map|Fig(\.|ure)?)\s+(?<number>\d+(-\d+)?))\.?\s+(?<caption>.*)/ui', $figure->caption, $m))
 								{
 									$figure->label = $m['label'];
 									$figure->number = $m['number'];
@@ -376,7 +376,7 @@ function get_figures($json_files, $centered = false)
 										$figure->caption = $obj->blocks[$text_blocks[0]]->text;
 										
 										// can we get label?
-										if (preg_match('/(?<label>(Plate|Map|Fig(\.|ure)?)\s+(?<number>\d+(-\d+)?))\.\s+(?<caption>.*)/ui', $figure->caption, $m))
+										if (preg_match('/(?<label>(Plate|Map|Fig(\.|ure)?)\s+(?<number>\d+(-\d+)?))\.?\s+(?<caption>.*)/ui', $figure->caption, $m))
 										{
 											$figure->label = $m['label'];
 											$figure->number = $m['number'];
