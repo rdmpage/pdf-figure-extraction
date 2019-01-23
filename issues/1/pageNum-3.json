@@ -1,0 +1,78 @@
+{
+    "x": 0,
+    "y": 0,
+    "w": "498.898",
+    "h": "708.661",
+    "text_area": {
+        "x": "46.7717",
+        "y": "40.8326",
+        "w": 405.36029999999994,
+        "h": 627.4014000000001
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "x": "46.7717",
+            "y": "40.8326",
+            "w": 273.432,
+            "h": 12.823999999999998,
+            "text": "ANN. BOT. FeNNICI Vol. 47 \u2022 Chirita auriculata, a new species from China"
+        },
+        {
+            "type": "text",
+            "x": "438.42",
+            "y": "40.9606",
+            "w": 13.343999999999994,
+            "h": 12.823999999999998,
+            "text": "223"
+        },
+        {
+            "type": "text",
+            "x": "46.7717",
+            "y": "382.844",
+            "w": 195.61,
+            "h": 285.39000000000004,
+            "text": "cal, 3.5\u20137 \u00a5 2.5\u20135 cm, base auriculate, shallowly serrate to coarsely dentate, densely hairy on both surfaces, lateral veins 5\u20137 on each side, grooved upper, prominent below; petiole 1\u20134 cm, usu- ally pairs of petioles adnated at base, densely hairy on both surfaces; pair-flowered cymes in leaf axils, 2\u20133 on a plant, each 3\u20135-flow- ered, peduncles 2\u20134 cm long, densely hairy; bracts paired, free, elliptical, 6 mm long, widest up to 2 mm, with eglandular hairs; pedicels 6\u201311 mm, with eglandular hairs; calyx ca. 0.4 cm long, divided to base, elliptical to long trian- gular, longicaudate; corolla 1.1 cm long, white or light purple outside, with purple stripes inside, glabrous or sparsely hairy on both sides, tube curved, slightly pouched, 3\u20134 mm at base, mouth naked, 5 mm wide, adaxial lobes 2, rectangu- lar, 4 mm, abaxial lobes 3, oblong, 5\u20137 mm; filaments 4 mm, inserted from base of corolla, S-shaped, glabrous below, sparsely upper with glandular hairs (Fig. 1B); anthers coherent face to face, with dense glandular hairs on connec- tive base; staminodes 3, inserted from base of"
+        },
+        {
+            "type": "text",
+            "x": "256.532",
+            "y": "382.734",
+            "w": 195.59999999999997,
+            "h": 102.46000000000004,
+            "text": "corolla, central ca. 0.6 mm long, laterals ca. 1.2 mm, apex curved, with glabrous or sparse glan- dular hairs (Fig. 1C); disc a shallowly lobed ring 0.3 mm deep. Gynoecium 7 mm long, with dense eglandular hairs, ovary long ovate, 2 mm long, style 5 mm long, stigma lamellate, bilobed; fruit 1\u20131.2 cm long, with sparse hairs; style persistent and curved, calyx not. Flowering April\u2013June."
+        },
+        {
+            "type": "text",
+            "x": "256.532",
+            "y": "505.964",
+            "w": 144.5,
+            "h": 16.400000000000034,
+            "text": "Molecular phylogeny analyses"
+        },
+        {
+            "type": "text",
+            "x": "256.532",
+            "y": "529.054",
+            "w": 195.59999999999997,
+            "h": 139.09000000000003,
+            "text": "The topology of the strict consensus trees from ITS and trnL-F data set analyses were not in conflict with each other and are basically coin- cident with Li and Wang (2007). In both trees, representative species of Chiritopsis and Chirita sect. Gibbosaccus cluster in a clade. Chirita auriculata is sister to C. pumila with medium to high support. The two species of sect. Micro- chirita are included in a separate clade. The ILD test gave p = 0.114, indicating that the data from two distinct marker regions were"
+        },
+        {
+            "type": "text",
+            "x": "46.7717",
+            "y": "308.302",
+            "w": 123.59199999999998,
+            "h": 63.120000000000005,
+            "text": "Fig. 1. Chirita auriculata (from the holotype, drawn by A. L. Li). \u2014 A: Flowering plant. \u2014 B: Stamens. \u2014 C: Tube of corolla (opened). \u2014 D: Calyx (opened) and pistil. \u2014 E: Detail of stigma"
+        },
+        {
+            "type": "image",
+            "x": "183.566",
+            "y": "66.6137",
+            "w": 268.55999999999995,
+            "h": 300.96,
+            "href": "anbf47-221.xml_data\/image-1.png"
+        }
+    ]
+}
