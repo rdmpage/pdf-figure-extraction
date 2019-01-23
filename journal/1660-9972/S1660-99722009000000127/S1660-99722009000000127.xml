@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Contributions To Natural History : Scientific Papers From The Natural History Museum Bern</journal-title>
+      </journal-title-group>
+      <issn>1660-9972</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1660-99722009000000127</article-id>
+      <article-id pub-id-type="doi">10.5169/seals-786964</article-id>
+      <title-group>
+        <article-title>Revision of the Australian spider genus Habronestes L. Koch, 1872 (Araneae: Zodariidae). Species of Tasmania</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Baehr, Barbara C</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Raven, Robert J</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2009</year>
+      </pub-date>
+      <issue>12/1</issue>
+      <fpage>127</fpage>
+      <lpage>152</lpage>
+    </article-meta>
+  </front>
+  <body/>
+</article>

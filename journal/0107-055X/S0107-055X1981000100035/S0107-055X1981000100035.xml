@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Nordic Journal of Botany</journal-title>
+      </journal-title-group>
+      <issn>0107-055X</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0107-055X1981000100035</article-id>
+      <article-id pub-id-type="doi"> 10.1111/j.1756-1051.1981.tb01030.x</article-id>
+      <title-group>
+        <article-title>New taxa in Anisotes (Acanthaceae)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Baden, Claus</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>1</day>
+        <month>1</month>
+        <year>1981</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>35</fpage>
+      <lpage>36</lpage>
+      <abstract>
+        <p>Diagnoses of three new species and three new subspecies of Anisotes are presented together with those of six subgeneric taxa.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 11</label>
+      <caption>Anisores zenkeri. A: habit. - B: inflorescence. - C: bract. - D: bracteole. - E: flower. - F: inside view of corolla. - G: calyx. - H: ovary and disc. - J: anther. - A-J: de Wilde 1644.</caption>
+      <graphic position="float" xlink:href="image-20.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 17</label>
+      <caption>Anisotes madaguscuriensis. A: habit. - B: inflorescence. - C: bract (note the indumentum). - D: flower. - E: inside view of corolla. - F: enlargement of lateral invagination. - G: apex of upper lip. - H: calyx. - J, K: ovary, style and disc of two different specimens. - L: anther. - A-J, L: Perrier de la Bltie 9494; K: Humbert 2425.</caption>
+      <graphic position="float" xlink:href="image-29.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig. 20</label>
+      <caption>Anisoies fanensis. A: habit. - B: branch with leaves and inflorescence. - C: bract. - D: bracteole. - E: flower. - F: calyx. - G: ovary, style and disc. - H: inside view of corolla. - J: capsule valve. - A , C-J: Gillett and Newhould 19180; B: Kirrika 114.</caption>
+      <graphic position="float" xlink:href="image-33.png"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Fig. 22</label>
+      <caption>Anisofes sessiliflorus ssp. sessiliflorus (A-L), and A. sessiliflorus ssp. iringensis (M-T). A: habit. - B: leaf. - C: detail of inflorescence. - D: bract. - E: bracteole. - F: flower. - G: inside view of corolla. - H: calyx. - J : ovary, style and disc. - K: anther. - L: capsule. - M: detail of inflorescence. - N: bract. - 0: bracteole. - P: flower. - Q: inside view of corolla. - R: calyx. - S : ovary, style and disc. - T: anther. - A, D-K: Hall-Martin 416; Bond 9B110; C: Theron 2593; M-T: Mhoro 1236.</caption>
+      <graphic position="float" xlink:href="image-38.png"/>
+    </fig>
+  </body>
+</article>

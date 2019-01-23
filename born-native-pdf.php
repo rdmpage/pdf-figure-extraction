@@ -268,6 +268,17 @@ function get_pdf_filename($pdf)
 {
 	$filename = '';
 	
+	// ?pid=cnh-001:2009:0::1694.pdf
+	if ($filename == '')
+	{
+		if (preg_match('/\?pid=(?<id>.*)$/Uu', $pdf, $m))
+		{
+			$filename = $m['id'];
+			$filename = str_replace(':', '-', $filename);
+		}
+	}	
+	
+	
 	// https://www.jstage.jst.go.jp/article/apg/66/2/66_KJ00010001424/_pdf/-char/en
 	if ($filename == '')
 	{
@@ -276,8 +287,17 @@ function get_pdf_filename($pdf)
 			$filename = $m['id'] . '.pdf';
 			
 			$filename = str_replace('/', '-', $filename);
+		}
+	}	
+	
+	// https://www.mdpi.com/2223-7747/5/2/23/pdf
+	if ($filename == '')
+	{
+		if (preg_match('/https?:\/\/www.mdpi.com\/(?<id>.*)\/pdf$/', $pdf, $m))
+		{
+			$filename = $m['id'] . '.pdf';
 			
-			
+			$filename = str_replace('/', '-', $filename);
 		}
 	}	
 	

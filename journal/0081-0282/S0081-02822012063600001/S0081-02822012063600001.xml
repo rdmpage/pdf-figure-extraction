@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Smithsonian Contributions to Zoology</journal-title>
+      </journal-title-group>
+      <issn>0081-0282</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0081-02822012063600001</article-id>
+      <article-id pub-id-type="doi">10.5479/si.00810282.636.1</article-id>
+      <title-group>
+        <article-title>Systematics of the Spider Family Deinopidae with a Revision of the Genus Menneus</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Coddington, Jonathan A.</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Kuntner, Matjaz</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Opell, Brent D.</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2012</year>
+      </pub-date>
+      <volume>636</volume>
+      <fpage>1</fpage>
+      <lpage>61</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>FIGURE 1</label>
+      <caption>Menneus natural history: a&#x2013;c are Menneus capensis, Cape Town; (a) female holding web; (b) subadult female dorsal; (c) male; (d) Menneus camelus, female from Sodwana Bay, KwaZulu-Natal, holding web (note unpaired abdominal tubercle).</caption>
+      <graphic position="float" xlink:href="image-6.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>FIGURE 3</label>
+      <caption>Deinopid somatic morphology: a, b are Deinopis spinosa, female from Florida, (a) frontal view of prosoma and (b) dorsal view of first left femur; c, e are Menneus aussie, male from Queensland: (c) first left tarsus, (d) distal second left tibia, and (e) second left metatarsus-tarsus joint. Numbers = characters (states); see text.</caption>
+      <graphic position="float" xlink:href="image-8.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>FIGURE 4</label>
+      <caption>Deinopid male palpal morphology: a&#x2013;d are Deinopis spinosa, expanded left palp in (a) prolateral, (b) retrolateral, (c) ventral, and (d) apical view; (e) Menneus camelus from South Africa, apical view.</caption>
+      <graphic position="float" xlink:href="image-9.png"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>FIGURE 5</label>
+      <caption>Deinopid female morphology (D. spinosa): (a) sternum, ventral view, showing setose knob (arrow); (b) labium, endites, trichobothria (arrows); (c) detail of chelicera, ventral view, showing teeth (arrows) and denticles; (d) detail of carapace showing feathery, blunt, and plumose setae; (e) metatarsus IV showing calamistrum; (f) tarsus IV claws showing reduced retrolateral teeth (arrow) and ventral tarsal deinopoid setal comb (arrows). All scales = 0.1 mm, except a = 1 mm.</caption>
+      <graphic position="float" xlink:href="image-10.png"/>
+    </fig>
+    <fig id="F5" position="float">
+      <label>FIGURE 6</label>
+      <caption>Deinopid male morphology (D. spinosa): (a) epiandrous spigots, ventral view; (b) detail of epiandrous spigots, ventral view; (c) anal tubercle, ventral view; (d) left palp, prolateral view; (e) median apophysis, ventral view; (f) detail of embolus tip. All scales = 0.1 mm, except b and f = 0.01 mm.</caption>
+      <graphic position="float" xlink:href="image-11.png"/>
+    </fig>
+    <fig id="F6" position="float">
+      <label>FIGURE 7</label>
+      <caption>Deinopis spinosa female spinneret morphology, all ventral views: (a) spinneret overview; (b) cribellum; (c) cribellar spigot detail; (d) ALS with MAP and PI spigots; (e) PMS with mAP, AC, PC, and CY spigots; (f) PLS with CY, AC, and MS spigots. All scales = 0.l mm, except c = 0.01 mm.</caption>
+      <graphic position="float" xlink:href="image-12.png"/>
+    </fig>
+    <fig id="F7" position="float">
+      <label>FIGURE 9</label>
+      <caption>Deinopis lamia, from Pico Turquino, Cuba: a&#x2013;d are female; (a) habitus, dorsal; (b) epigynum, ventral; (c) epigy- num, caudal; (d) epigynum, dorsal; e&#x2013;g are male; (e) habitus, dorsal; (f) left palpal bulb, ventral; (g) embolus tip.</caption>
+      <graphic position="float" xlink:href="image-14.png"/>
+    </fig>
+    <fig id="F8" position="float">
+      <label>FIGURE 10</label>
+      <caption>Deinopis cylindrica: a&#x2013;e are female from Lake Sibayi, KwaZulu-Natal; (a) prosoma, frontal; (b) prosoma, dorsal; (c) abdomen, ventral; (d) abdomen, dorsal; (e) epigynum, ventral; f&#x2013;j are male from Empangeni, KwaZulu-Natal; (f) prosoma, frontal; (g) prosoma, dorsal; (h) abdomen, ventral; (i) abdomen, dorsal; (j) left palpal bulb, ventral; (k) embolus tip.</caption>
+      <graphic position="float" xlink:href="image-15.png"/>
+    </fig>
+    <fig id="F9" position="float">
+      <label>FIGURE 11</label>
+      <caption>Deinopis spinosa: a&#x2013;e are female from Florida; (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, ventral; (d) abdomen, dor- sal; (e) epigynum, ventral; f&#x2013;h are epigynum of female from Jamaica; (f) ventral; (g) caudal; (h) dorsal; i&#x2013;m are male from Florida; (i) prosoma, frontal; (j) prosoma, dorsal; (k) abdomen, ventral; (l) abdomen, dorsal; (m) left palpal bulb, ventral.</caption>
+      <graphic position="float" xlink:href="image-16.png"/>
+    </fig>
+    <fig id="F10" position="float">
+      <label>FIGURE 14</label>
+      <caption>Menneus male left palps in (left) prolateral, (middle) ventral, and (right) retrolateral view: (a&#x2013;c) M. camelus, (d&#x2013;f) M. capensis, and (g&#x2013;i) M. darwini. Diagnostic features of species in b, e, h: short bold arrows indicate extent of median hematodocha; long slender arrow indicates embolus tip; dashed line indicates the axis of the median apophysis and basal lobe.</caption>
+      <graphic position="float" xlink:href="image-19.png"/>
+    </fig>
+    <fig id="F11" position="float">
+      <label>FIGURE 15</label>
+      <caption>Menneus male left palps in (left) prolateral, (middle) ventral, and (right) retrolateral view: (a&#x2013;c) M. dromedarius, (d&#x2013;f) M. samperi, and (g&#x2013;i) M. tetragnathoides. Diagnostic features of species in b, e, h: short bold arrows indicate extent of median hematodocha; long slender arrow indicates embolus tip; dashed line indi- cates the axis of the median apophysis and basal lobe.</caption>
+      <graphic position="float" xlink:href="image-20.png"/>
+    </fig>
+    <fig id="F12" position="float">
+      <label>FIGURE 16</label>
+      <caption>Menneus male left palps in (left) prolateral, (middle) ventral, and (right) retrolateral view: (a&#x2013;c) M. aussie, (d&#x2013;f) M. nemesio, and (g&#x2013;i) M. neocaledonicus. Diagnostic features of species in b, e, h: short bold ar- rows indicate extent of median hematodocha; long slender arrow indicates embolus tip; dashed line indicates the axis of the median apophysis and basal lobe.</caption>
+      <graphic position="float" xlink:href="image-21.png"/>
+    </fig>
+    <fig id="F13" position="float">
+      <label>FIGURE 17</label>
+      <caption>Menneus male left palps in (left) prolateral, (middle) ventral, and (right) retrolateral view: (a&#x2013;c) M. superciliosus, (d&#x2013;f) M. trinodosus, and (g&#x2013;i) M. wa. Diagnostic features of species in b, e, h: short bold arrows indicate extent of median hematodocha; long slender arrow indicates embolus tip; dashed line indicates the axis of the median apophysis and basal lobe.</caption>
+      <graphic position="float" xlink:href="image-22.png"/>
+    </fig>
+    <fig id="F14" position="float">
+      <label>FIGURE 18</label>
+      <caption>Menneus camelus: a&#x2013;f are female from Dukuduku, KwaZulu-Natal; (a) prosoma, frontal; (b) prosoma, dorsal; (c) abdomen, ventral; (d) abdomen, dorsal; (e) epigynum, caudal; (f) epigynum, ventral; g&#x2013;k are female from Pietermaritzburg, KwaZulu-Natal; (g) prosoma, frontal; (h) prosoma, dorsal; (i) abdomen, ventral; (j) abdomen, dorsal; (k) epigynum, dorsal.</caption>
+      <graphic position="float" xlink:href="image-23.png"/>
+    </fig>
+    <fig id="F15" position="float">
+      <label>FIGURE 19</label>
+      <caption>Menneus camelus, male from Amanzimtoti, KwaZulu-Natal: (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, ventral; (d) abdomen, dorsal; (e) left palpal bulb, ventral; (f) embolus tip.</caption>
+      <graphic position="float" xlink:href="image-24.png"/>
+    </fig>
+    <fig id="F16" position="float">
+      <label>FIGURE 20</label>
+      <caption>Menneus capensis: a&#x2013;f are female from Newlands Forest, Cape Town; (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, dorsal; (d) abdomen, ventral; (e) epigynum, ventral; (f) epigynum, dorsal; g&#x2013;l are male from Goudini, Cape Province; (g) prosoma, dorsal; (h) prosoma, frontal; (i) abdomen, dorsal; (j) abdomen, ventral; (k) left palpal bulb, ventral; (l) embolus tip.</caption>
+      <graphic position="float" xlink:href="image-25.png"/>
+    </fig>
+    <fig id="F17" position="float">
+      <label>FIGURE 21</label>
+      <caption>Menneus darwini, holotype male from Tanzania: (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, dorsal; (d) abdomen, ventral.</caption>
+      <graphic position="float" xlink:href="image-26.png"/>
+    </fig>
+    <fig id="F18" position="float">
+      <label>FIGURE 22</label>
+      <caption>Menneus dromedarius: a&#x2013;d are female from Table Mountain, South Africa; (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdo- men, dorsal; (d) abdomen, ventral; e&#x2013;g are epigynum of female from Kleinmond, South Africa; (e) ventral; (f) caudal; (g) dorsal; h&#x2013;l are male from Grahamstown, South Africa; (h) prosoma, dorsal; (i) prosoma, frontal; (j) abdomen, dorsal; (k) abdomen, ventral; (l) left palpal bulb, ventral.</caption>
+      <graphic position="float" xlink:href="image-27.png"/>
+    </fig>
+    <fig id="F19" position="float">
+      <label>FIGURE 23</label>
+      <caption>Menneus samperi: a&#x2013;d are female from Tanzania; (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, dorsal; (d) abdomen, ventral; e&#x2013;g are epigynum of female from Uganda; (e) ventral; (f) caudal; (g) dorsal; h&#x2013;k are male from Kenya; (h) prosoma, dorsal; (i) prosoma, frontal; (j) abdomen, dorsal; (k) abdomen, ventral.</caption>
+      <graphic position="float" xlink:href="image-28.png"/>
+    </fig>
+    <fig id="F20" position="float">
+      <label>FIGURE 24</label>
+      <caption>Menneus tetragnathoides, male from Chintheche, Malawi: (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, ventral; (d) abdomen, dorsal; (e) left palpal bulb, ventral; (f) embolus tip.</caption>
+      <graphic position="float" xlink:href="image-29.png"/>
+    </fig>
+    <fig id="F21" position="float">
+      <label>FIGURE 25</label>
+      <caption>Menneus aussie: a&#x2013;g are female from Manly, NSW; (a) prosoma, dorsal; (b) abdomen, dorsal; (c) abdomen, ventral; (d) prosoma, frontal; (e) epigynum, caudal; (f) epigynum, ventral; (g) epigynum, dorsal; h&#x2013;l are male from Rundle Range, Queensland; (h) prosoma, dorsal; (i) prosoma, frontal; (j) abdomen, ventral; (k) abdomen, dorsal; (l) left palpal bulb, ventral.</caption>
+      <graphic position="float" xlink:href="image-30.png"/>
+    </fig>
+    <fig id="F22" position="float">
+      <label>FIGURE 26</label>
+      <caption>Menneus bituberculatus, female from Upper Brookfield, Queensland: (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, dorsal; (d) abdomen, ventral; e&#x2013;g are epigynum; (e) ventral; (f) caudal; (g) dorsal.</caption>
+      <graphic position="float" xlink:href="image-31.png"/>
+    </fig>
+    <fig id="F23" position="float">
+      <label>FIGURE 27</label>
+      <caption>Menneus nemesio: a&#x2013;g are female from Wamberal, New South Wales (NSW); (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdo- men, dorsal; (d) abdomen, ventral; e&#x2013;g are epigynum; (e) ventral; (f) caudal; (g) dorsal; h&#x2013;m are male from Hawksburg, NSW; (h) prosoma, frontal; (i) prosoma, dorsal; (j) abdomen, dorsal; (k) abdomen, ventral; (l) left palpal bulb, ventral; (m) embolus tip.</caption>
+      <graphic position="float" xlink:href="image-32.png"/>
+    </fig>
+    <fig id="F24" position="float">
+      <label>FIGURE 28</label>
+      <caption>Menneus neocaledonicus from Aoupinie, New Caledonia: a&#x2013;g are female; (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, dorsal; (d) abdomen, ventral; e&#x2013;g are epigynum; (e) ventral; (f) caudal; (g) dorsal; h&#x2013;m are male; (h) prosoma, dorsal; (i) pro- soma, frontal; (j) abdomen, ventral; (k) abdomen, dorsal; (l) left palpal bulb, ventral; (m) embolus tip.</caption>
+      <graphic position="float" xlink:href="image-33.png"/>
+    </fig>
+    <fig id="F25" position="float">
+      <label>FIGURE 29</label>
+      <caption>Menneus quasimodo, female from Western Australia: (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, dorsal; (d) abdo- men, ventral; e&#x2013;g are epigynum; (e) ventral; (f) caudal; (g) dorsal.</caption>
+      <graphic position="float" xlink:href="image-34.png"/>
+    </fig>
+    <fig id="F26" position="float">
+      <label>FIGURE 30</label>
+      <caption>Menneus superciliosus from Edmonton, Queensland: a&#x2013;g are female; (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, dorsal; (d) abdomen, ventral; (e) epigynum, caudal; (f) epigynum, ventral; (g) epigynum, dorsal; h&#x2013;l are male; (h) prosoma, dorsal; (i) pro- soma, frontal; (j) abdomen, dorsal; (k) abdomen, ventral; (l) left palpal bulb, ventral.</caption>
+      <graphic position="float" xlink:href="image-35.png"/>
+    </fig>
+    <fig id="F27" position="float">
+      <label>FIGURE 31</label>
+      <caption>Menneus trinodosus, a&#x2013;g are female from Eurimbula, Queensland; (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdo- men, dorsal; (d) abdomen, ventral; e&#x2013;g are epigynum; (e), ventral; (f) caudal; (g) dorsal; h&#x2013;m are male from Bundaberg, Queensland; (h) prosoma, dorsal; (i) prosoma, frontal; (j) abdomen, dorsal; (k) abdomen, ventral; (l) left palpal bulb, ventral; (m) embolus tip.</caption>
+      <graphic position="float" xlink:href="image-36.png"/>
+    </fig>
+    <fig id="F28" position="float">
+      <label>FIGURE 32</label>
+      <caption>Menneus wa, from Western Australia: a&#x2013;g are female; (a) prosoma, dorsal; (b) prosoma, frontal; (c) abdomen, dorsal; (d) abdo- men, ventral; e&#x2013;g are epigynum; (e) ventral; (f) caudal; (g) dorsal; h&#x2013;k are male; (h) prosoma, dorsal; (i) prosoma, frontal; (j) abdomen, dorsal; (k) abdomen, ventral.</caption>
+      <graphic position="float" xlink:href="image-37.png"/>
+    </fig>
+  </body>
+</article>

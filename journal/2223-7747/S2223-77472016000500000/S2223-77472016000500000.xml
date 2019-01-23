@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Plants</journal-title>
+      </journal-title-group>
+      <issn>2223-7747</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S2223-77472016000500000</article-id>
+      <article-id pub-id-type="doi">10.3390/plants5020023</article-id>
+      <title-group>
+        <article-title>Two New Nepenthes Species from the Philippines and an Emended Description of Nepenthes ramos</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Gronemeyer, Thomas</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Suarez, Wally</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Nuytemans, Herman</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Calaramo, Michael</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Wistuba, Andreas</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Mey, S. Fran&#xE7;ois</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Amoroso, B. Victor</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2016</year>
+      </pub-date>
+      <volume>5</volume>
+      <issue>2</issue>
+    </article-meta>
+  </front>
+  <body/>
+</article>

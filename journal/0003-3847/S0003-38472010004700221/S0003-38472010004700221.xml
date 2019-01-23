@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Annales Botanici Fennici</journal-title>
+      </journal-title-group>
+      <issn>0003-3847</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0003-38472010004700221</article-id>
+      <article-id pub-id-type="doi">10.5735/085.047.0307</article-id>
+      <title-group>
+        <article-title>Chirita auriculata (Gesneriaceae), a New Species from China, Placed in sect. Chirita Based on Molecular Data</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Jia-Mei Li</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Shi-Xin Zhu</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2010</year>
+      </pub-date>
+      <volume>47</volume>
+      <fpage>221</fpage>
+      <lpage>225</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 2</label>
+      <caption>Single MPT generated from the combined ITS and trnL-F data. C = Chirita, Cs = Chiritopsis, P = Paraboea, O = Ornithoboea.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+  </body>
+</article>

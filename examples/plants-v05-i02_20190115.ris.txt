@@ -1,0 +1,26 @@
+TY  - EJOU
+AU  - Gronemeyer, Thomas
+AU  - Suarez, Wally
+AU  - Nuytemans, Herman
+AU  - Calaramo, Michael
+AU  - Wistuba, Andreas
+AU  - Mey, S. François
+AU  - Amoroso, B. Victor
+TI  - Two New Nepenthes Species from the Philippines and an Emended Description of Nepenthes ramos
+T2  - Plants
+
+PY  - 2016
+VL  - 5
+IS  - 2
+SN  - 2223-7747
+
+AB  - With 50 species of the genus Nepenthes L. currently described from the Philippines, it is without doubt that the country, along with the islands of Sumatra (Indonesia) and Borneo (Indonesia, Malaysia, Brunei), should be considered the center of diversity of the genus. In this work, we describe two new species. One species, N. aenigma sp. nov., is from Ilocos Norte province on Luzon Island and has the—for Nepenthes—unusual ecological preference to grow in dense vegetation in deep shade. The other new species is from Mount Hamiguitan in Davao Oriental province on Mindanao Island. With this new entry, Mount Hamiguitan is now home to four endemic species (N. peltata, N. micramphora, N. hamiguitanensis, N. justinae sp. nov.). Furthermore, we provide an emended description of N. ramos based on field data. Nepenthes kurata is synonymized here with N. ramos.
+KW  - carnivorous pitcher plants
+KW  - Nepenthes
+KW  - Ilocos Norte
+KW  - Mount Hamiguitan
+KW  - Philippines
+DO  - 10.3390/plants5020023
+L1  - https://www.mdpi.com/2223-7747/5/2/23/pdf
+ER  - 
+

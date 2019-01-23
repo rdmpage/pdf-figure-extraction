@@ -185,6 +185,13 @@ function process_ris_key($key, $value, &$obj)
 				   $obj->year = $matches['year'];
 				   $obj->date = sprintf("%d-%02d-%02d", $matches['year'], $matches['month'], '0');					   
 		   }
+		   
+		   // 2017-10-31T00:00:00///
+		   if (preg_match("/^(?<date>(?<year>[0-9]{4})\-[0-9]{2}\-[0-9]{2})T/", $date, $matches))
+		   {
+		   		$obj->year = $matches['year'];
+				$obj->date = $date;
+		   }
 
 		   if (preg_match("/^(?<year>[0-9]{4})\/(?<month>[0-9]{1,2})$/", $date, $matches))
 		   {                       
@@ -237,9 +244,11 @@ function process_ris_key($key, $value, &$obj)
 	
 		// Mendeley 0.9.9.2
 		case 'DO':
+		case 'M3':
 			$obj->doi = $value;
 			
 			$obj->doi = preg_replace('/https?:\/\/(dx.)?doi.org\//', '', $obj->doi);
+			$obj->doi = preg_replace('/doi:/', '', $obj->doi);
 			break;
 			
 		default:

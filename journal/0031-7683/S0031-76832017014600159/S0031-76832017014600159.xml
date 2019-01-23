@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Philippine Journal of Science</journal-title>
+      </journal-title-group>
+      <issn>0031-7683</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0031-76832017014600159</article-id>
+      <title-group>
+        <article-title>Two New Nepenthes Species from the Unexplored Mountains of Central Mindanao, Philippines</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Noel E. Lagunday</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Florfe M. Acma</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Veneracion G. Cabana</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Novo M. Sabas</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Victor B. Amoroso</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <month>6</month>
+        <year>2017</year>
+      </pub-date>
+      <volume>146</volume>
+      <issue>2</issue>
+      <fpage>159</fpage>
+      <lpage>165</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Figure 1</label>
+      <caption>Photographs of N. malimumuensis. (A) Plant habit, (B) young male inflorescence, (C) infructescence, (D) lower pitchers (E) upper pitchers. Photos by Adeline Calaguian (A,D), Harold C. Armecin (C,E), and N.E. Lagunday (B).</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 2</label>
+      <caption>Photomicrographs of Nepenthes malimumuensis. (A) leaf adaxial, (B,C) leaf abaxial, (D,E) fringed wing (F) pitcher exterior covered with indumenta, (G,H) peristome, (I) peristome inner margin, (J,K) lid nectar glands, (L) pubescent lid spur; (M) digestive zone, (N,O) waxy zone, (P-R) female flower, (Q) tepal, (R) flower covered with indumenta, (S,T) seeds, (U) indumenta; f - filamentous fringe, i - indumentum, ng - nectar gland, pt - peristome teeth, w&#x2013; wing, c - capsule, dg - digestive gland, i - indumenta, pb - pseudobranch, s - seed, sw - seed filiform wing, wz - waxy zone.</caption>
+      <graphic position="float" xlink:href="image-2.jpg"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Figure 3</label>
+      <caption>Photographs of N. manobo. (A) Plant habit with upper pitchers, (B) upper pitcher with two lids (anomalous growth), (C) rosette stem with lower pitchers, (D) plant habit with an upper pitcher and a male inflorescence. Photos by N.E Lagunday (A,C,D) and Harold C. Armecin (B).</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Figure 4</label>
+      <caption>Photomicrographs of Nepenthes manobo. (A) stem, (B) tendril covered with sparse indumenta, (C) leaf adaxial, (D) leaf abaxial, (E) pitcher exterior covered with indumenta, (F) fringed wing, (G) peristome teeth, (H, I) lid nectar glands, (J) lid spur, (K) waxy zone, (L) digestive zone, (M-O) male flower, (N) tepal, (O) floret bearing the pollen, (P)trilete pollen, (Q) indumenta without pseudo- branches; f - filamentous fringe, i - indumenta, ng - nectar gland, dg - digestive gland, k - keel, pt - peristome teeth, wz - waxy zone.</caption>
+      <graphic position="float" xlink:href="image-4.png"/>
+    </fig>
+  </body>
+</article>

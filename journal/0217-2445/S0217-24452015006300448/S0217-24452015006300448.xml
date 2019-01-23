@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>The Raffles Bulletin of Zoology</journal-title>
+      </journal-title-group>
+      <issn>0217-2445</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0217-24452015006300448</article-id>
+      <title-group>
+        <article-title>Sundathelphusa spelaeophila, a new species of cavernicolous crab from Samar, Philippines (Decapoda: Brachyura: Gecarcinucidae)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Stasolla, G</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Abbarchi, A</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Innocenti, G</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2015</year>
+      </pub-date>
+      <volume>63</volume>
+      <fpage>448</fpage>
+      <lpage>453</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 1</label>
+      <caption>Sundathelphusa spelaeophila n. sp., holotype, male (15.9 &#xD7; 14.1 mm) (MZUF 3920). A, dorsal view (Scale bar = 10 mm); B, ventral view; C, anterior view.</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>Sundathelphusa spelaeophila n. sp., holotype, male (15.9 &#xD7; 14.1 mm) (MZUF 3920): A, right third maxilliped; B, abdomen; C, right G2, respectively ventral and dorsal view; D, right G1, respectively ventral and dorsal view; E, tip of right G1, respectively ventral and dorsal view. Scale bars = 1.0 mm.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig. 3</label>
+      <caption>Map of the localities of the four Sundathelphusa species collected in western Samar: &#x25B2; S. spelaeophila n. sp.; &#xAB; S. philippina; &#xC8; S. waray (Langun cave); &#x25A0; S. lobo (Lobo cave).</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+  </body>
+</article>
