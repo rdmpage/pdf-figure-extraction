@@ -2,9 +2,176 @@
 
 // pdf blocks
 
-//require_once(dirname(__FILE__) . '/components.php');
+require_once(dirname(__FILE__) . '/shared/components.php');
 require_once(dirname(__FILE__) . '/shared/spatial.php');
 
+//----------------------------------------------------------------------------------------
+// $text_block is array of line numbers that belong to that block
+// For block of text get details
+function get_block_info($page, $text_block)
+{
+	$block = new stdclass;
+	
+	// get bounding box for this block
+	$block->bbox = new BBox();		
+	foreach ($text_block as $i)
+	{
+		$block->bbox->merge($page->lines[$i]->bbox);
+	}
+	
+	$block->tokens = array();
+		
+	// text attributes
+	$block->font_bold = 0;
+	$block->font_italic = 0;
+	$block->font_name = array();
+	$block->font_size = array();
+	
+	$block->line_ids = array();
+	
+	foreach ($text_block as $i)
+	{		
+		$block->line_ids[] = $i;
+	
+		// grab block of text
+		
+		foreach ($page->lines[$i]->tokens as $token)
+		{
+			if ($token->bold)
+			{
+				$block->font_bold++;
+			}
+			if ($token->italic)
+			{
+				$block->font_italic++;
+			}
+		
+			$key = strtolower($token->font_name);
+			if (!isset($block->font_name[$key]))
+			{
+				$block->font_name[$key] = 0;
+			}
+			$block->font_name[$key]++;
+			
+			
+			if (!isset($block->font_size[$token->font_size]))
+			{
+				$block->font_size[$token->font_size] = 0;
+			}
+			$block->font_size[$token->font_size]++;
+			
+			
+			$block->tokens[] = $token->text;
+		}
+	}
+	
+	// get most common font size for this block
+	// Sort array of font sizes by frequency (highest to lowest)
+	arsort($block->font_size, SORT_NUMERIC );
+	
+	// The font sizes are the keys to the array, so first key is most common font size
+	$block->modal_font_size = array_keys($block->font_size)[0];	
+
+	return $block;
+}
+
+//----------------------------------------------------------------------------------------
+function find_blocks($page)
+{
+	// Find blocks by looking for overlap between (inflated)
+	// bounding boxes, then find components of graph of overlaps
+	$X = array();
+	$n = count($page->lines);
+
+	// Create adjacency matrix and fill with 0's
+	$X = array();
+	for ($i = 0; $i < $n; $i++)
+	{
+		$X[$i] = array();
+		
+		for ($j = 0; $j < $n; $j++)
+		{ 
+			$X[$i][$j] = 0;
+		}
+	}
+	
+	// Populate adjacency graph
+	foreach ($page->lines as $line)
+	{
+		$bbox = new BBox();
+		$bbox->merge($line->bbox);
+		
+		// magic_number
+		$bbox->inflate(10,10); // to do: need rule for overlap value
+		
+		$overlap = array();
+		foreach ($page->lines as $other_lines)
+		{
+			if ($other_lines->bbox->overlap($bbox))
+			{
+				$lines_overlap = true;
+				if (1)
+				{
+					// just accept overlap
+				}
+				else
+				{
+					$lines_overlap = false;
+					
+					// try and develop other rules...
+					if ($line->id < $other_lines->id)
+					{
+						$lines_overlap = $line->bbox->minx  < $other_lines->bbox->minx;
+					}
+					
+					if (!$lines_overlap)
+					{
+						if ($line->id < $other_lines->id)
+						{
+							if ($line->bbox->minx == $other_lines->bbox->minx)
+							{
+								$lines_overlap = $line->bbox->mix > $page->text_bbox->minx;
+							}
+						}
+					}										
+				}
+				if ($lines_overlap)
+				{
+					$overlap[] = $other_lines->id;
+				}
+			}
+		}
+		
+		foreach ($overlap as $o)
+		{
+			$X[$line->id][$o] = 1;
+			$X[$o][$line->id] = 1;
+		}
+	}
+	
+	if (0)
+	{
+		for($i=0;$i<$n;$i++)
+		{
+			for($j=0;$j<$n;$j++)
+			{
+				echo $X[$i][$j];
+			}
+			echo "\n";
+		}
+	}	
+	
+	// Components of X are blocks of overlapping text
+	$blocks = get_components($X);
+	
+	
+	// A block may comprise more than one paragraph or other unit, so see if we can cut the blocks further
+	//$blocks = cut($page, $blocks, $X);
+	
+	// Return partition of text lines into blocks
+	return $blocks;
+
+}
 
 //----------------------------------------------------------------------------------------
 // Grab PDF XML and process
@@ -86,23 +253,28 @@ function pdf_blocks($filename, $filter_overlap = false)
 				$html .= '</div>';
 			}
 			
-			// save
-			$image_obj = new stdclass;
-			$image_obj->bbox = new BBox(
-			$attributes2['x'], 
-			$attributes2['y'],
-			$attributes2['x'] + $attributes2['width'],
-			$attributes2['y'] + $attributes2['height']
-			);
+			// ignore block x=0, y=0 as this is the whole page(?)
+			if (($attributes2['x'] != 0) && ($attributes2['y'] != 0))
+			{
 			
-			$image_obj->href = $attributes2['href'];
+				// save
+				$image_obj = new stdclass;
+				$image_obj->bbox = new BBox(
+				$attributes2['x'], 
+				$attributes2['y'],
+				$attributes2['x'] + $attributes2['width'],
+				$attributes2['y'] + $attributes2['height']
+				);
 			
-			$page->images[] = $image_obj;
-		
+				$image_obj->href = $attributes2['href'];
+			
+				$page->images[] = $image_obj;
+			}		
 		}
 	}
 	
 	// Get blocks	
+	$line_counter = 0; // global line counter
 	$blocks = $xpath->query ('//BLOCK');
 	foreach($blocks as $block)
 	{
@@ -112,7 +284,7 @@ function pdf_blocks($filename, $filter_overlap = false)
 		
 		// Get lines of text
 		$lines = $xpath->query ('TEXT', $block);
-		$line_counter = 0;
+		
 		foreach($lines as $line)
 		{
 			// coordinates
@@ -186,6 +358,32 @@ function pdf_blocks($filename, $filter_overlap = false)
 		$page->text_bbox->merge($b->bbox);
 		
 		$page->blocks[] = $b;
+	}
+	
+	// test of clustering lines of text into blocks,
+	// use this if "BLOCKS" are lines of text, as can occur if PDF is OCR not born-digital
+	if (0)
+	{
+		// $text_blocks is a list of blocks, each block is a list of line ids that belong to that block
+		$text_blocks = find_blocks($page);
+		
+
+		// get block info 
+		$blocks = array();
+		if (count($text_blocks) > 0)
+		{
+			foreach ($text_blocks as $k => $text_block)
+			{
+				$block = get_block_info($page, $text_block);
+				$block->id = $k;			
+				$blocks[] = $block;
+			}
+		}	
+		
+		//print_r($blocks);
+		
+		$page->blocks = $blocks;
+		
 	}
 
 	if (0)
@@ -301,7 +499,11 @@ function pdf_blocks($filename, $filter_overlap = false)
 // test
 if (0)
 {
-	process('cache/arac-30-02-219.xml_data/pageNum-3.xml');
+	$json = pdf_blocks('cache/565940.xml_data/pageNum-8.xml');
+	
+	echo json_encode($json, JSON_PRETTY_PRINT);
+	
+	
 }
 
 

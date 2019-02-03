@@ -4,7 +4,7 @@
 <dict>
 	<key>EmbeddedEditorHidden:rpage</key>
 	<false/>
-	<key>ExpandedEditorWidth:rpage:displays([(0, 0), (1440, 900)]:[(1440, 0), (1280, 800)])</key>
+	<key>ExpandedEditorWidth:rpage:displays([(0, 0), (1440, 900)]:[(1440, 0), (800, 600)])</key>
 	<integer>918</integer>
 	<key>ExpandedItems:rpage</key>
 	<array>
@@ -264,7 +264,7 @@
 	<key>OpenDocumentsExpanded</key>
 	<true/>
 	<key>OpenDocumentsSplitterProportion</key>
-	<real>0.776158940397351</real>
+	<real>0.73642384105960268</real>
 	<key>ProjectItemsExpanded</key>
 	<true/>
 	<key>ProjectViewVisible</key>
@@ -273,7 +273,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2019-01-23T09:05:34Z</date>
+			<date>2019-02-01T10:05:29Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -321,7 +321,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-01-23T09:05:34Z</date>
+			<date>2019-02-01T10:05:29Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -367,7 +367,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-01-23T09:05:34Z</date>
+			<date>2019-02-01T10:05:29Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -416,7 +416,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-01-23T09:05:34Z</date>
+			<date>2019-02-01T10:05:29Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -464,7 +464,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-01-23T09:05:34Z</date>
+			<date>2019-02-01T10:05:29Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -512,7 +512,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2019-01-23T09:05:34Z</date>
+			<date>2019-02-01T10:05:29Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -570,7 +570,7 @@
 	<false/>
 	<key>ViewSplitterPosition:rpage</key>
 	<real>0.18108831346035004</real>
-	<key>WindowFrame:rpage:displays([(0, 0), (1440, 900)]:[(1440, 0), (1280, 800)])</key>
+	<key>WindowFrame:rpage:displays([(0, 0), (1440, 900)]:[(1440, 0), (800, 600)])</key>
 	<string>rect(45,141,800,1262)</string>
 </dict>
 </plist>
