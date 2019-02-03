@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Phytologia</journal-title>
+      </journal-title-group>
+      <issn>0031-9430</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0031-94302017009900126</article-id>
+      <title-group>
+        <article-title>A New Senegalia (S. seigleri, Fabaceae: Mimosoideae) from Bahia, Brazil</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Ebinger, J. E.</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2017</year>
+      </pub-date>
+      <volume>99</volume>
+      <issue>2</issue>
+      <fpage>126</fpage>
+      <lpage>1</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Figure 1</label>
+      <caption>A. Leaflet, abaxial view; B. Leaf and portion of stem; C. Petiolar gland; D. Flower; E. portion of pseudoinflorescence</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+  </body>
+</article>

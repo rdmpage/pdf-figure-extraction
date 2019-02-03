@@ -38,7 +38,7 @@
 </img>
 
 	<xsl:apply-templates select="//IMAGE" />
-	<xsl:apply-templates select="//TEXT" />
+	<xsl:apply-templates select="//BLOCK" />
 	
 
 	</div>
@@ -74,7 +74,14 @@
 
 </div>
 </xsl:template>
-<xsl:template match="//TEXT">
+
+<xsl:template match="BLOCK">
+	<div>
+	<xsl:apply-templates select="TEXT" />
+	</div>
+</xsl:template>
+
+<xsl:template match="TEXT">
 
 	<div>
 	<xsl:attribute name="id">
