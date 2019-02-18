@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Integrative Biosciences</journal-title>
+      </journal-title-group>
+      <issn>1738-6357</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1738-63572006001000049</article-id>
+      <article-id pub-id-type="doi"> 10.1080/17386357.2006.9647283</article-id>
+      <title-group>
+        <article-title>A review of the spider genus Asiacoelotes (Arachnida: Araneae: Amaurobiidae) in Korea</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Kim, Byung&#x2010;Woo</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Lee, Woncheol</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>1</day>
+        <month>1</month>
+        <year>2006</year>
+      </pub-date>
+      <volume>10</volume>
+      <issue>2</issue>
+      <fpage>49</fpage>
+      <lpage>64</lpage>
+    </article-meta>
+  </front>
+  <body/>
+</article>
