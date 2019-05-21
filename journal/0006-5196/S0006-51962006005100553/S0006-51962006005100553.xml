@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Blumea - Biodiversity, Evolution And Biogeography of Plants</journal-title>
+      </journal-title-group>
+      <issn>0006-5196</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0006-51962006005100553</article-id>
+      <article-id pub-id-type="doi">10.3767/000651906x622102</article-id>
+      <title-group>
+        <article-title>Miliusa lanceolata (Annonaceae), a new species from Papua New Guinea</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Chaowasku, T</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Ke&#xDF;ler, P J A</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2006</year>
+      </pub-date>
+      <volume>51</volume>
+      <issue>3</issue>
+      <fpage>553</fpage>
+      <lpage>558</lpage>
+      <abstract>
+        <p>A new species, Miliusa lanceolata Chaowasku  Ke&#xDF;ler (Annonaceae), is described and illustrated.It has been so far recorded from the D&#x2019;Entrecasteaux Islands (Goodenough and Normanby Islands) and Louisiade Archipelago (Sudest Island), southeast off Papua New Guinea and is characterized by densely hairy young twigs, lanceolate leaves, and supra-axillary flowers with long pedicels. The relationship with similar species in the genus is also discussed and a key to the species of Miliusa in New Guinea is provided.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Map 1</label>
+      <caption>Distribution of Miliusa lanceolata Chaowasku &amp; Ke&#xDF;ler.</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 1</label>
+      <caption>Miliusa lanceolata Chaowasku &amp; Ke&#xDF;ler. a. Habit; b. lower leaf surface; c. flower with two inner petals removed; d. inside of an inner petal; e. monocarp (all Brass 28198).</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+  </body>
+</article>

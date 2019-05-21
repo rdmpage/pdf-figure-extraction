@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Australian Journal of Entomology</journal-title>
+      </journal-title-group>
+      <issn>1326-6756</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1326-67562010004900245</article-id>
+      <article-id pub-id-type="doi"> 10.1111/j.1440-6055.2010.00756.x</article-id>
+      <title-group>
+        <article-title>New species of ant-mimicking jumping spiders of the genus Myrmarachne MacLeay, 1839 (Araneae: Salticidae) from north Queensland, Australia</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Ceccarelli, F Sara</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>1</day>
+        <month>8</month>
+        <year>2010</year>
+      </pub-date>
+      <volume>49</volume>
+      <issue>3</issue>
+      <fpage>245</fpage>
+      <lpage>255</lpage>
+      <abstract>
+        <p>Abstract Based on taxonomic characters such as male and female genitalia and male chelicerae, four new species of Myrmarachne from Townsville, north Queensland are described. The proposed new species include: Myrmarachne rubra, Myrmarachne aurea, Myrmarachne gurgulla and Myrmarachne smaragdina. Information is also provided on the biology and ecology of these species and a comparison between the species is also presented, supported by data collected over 2.5?years.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <caption>Figs 1&#x2013;9. Myrmarachne rubra sp. nov., male (1, 2, 5&#x2013;7): 1, 2, habitus, dorsal (1) and lateral (2) views; 5, 6, palpal tibia, cymbium and bulb, retrolateral (5), and ventral (6) views; 7, chelicera medio-lateral view; female (3, 4, 8, 9): 3, 4, habitus, dorsal (3) and lateral (4) views; 8, epigyne before maceration; 9, epigyne showing internal ducts. Scale lines: 1 mm for Figures 1&#x2013;4; 100 mm for Figures 5, 6, 8, 9; 500 mm for Figure 7.</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <caption>Figs 10&#x2013;18. Myrmarachne aurea sp. nov., male (10, 11, 14&#x2013;16): 10, 11, habitus, dorsal (10) and lateral (11) views; 14, 15, palpal tibia, cymbium and bulb, retrolateral (14), and ventral (15) views; 16, chelicera medio-lateral view; female (12, 13, 17, 18): 12, 13, habitus, dorsal (12) and lateral (13) views; 17, epigyne before maceration; 18, epigyne showing internal ducts. Scale lines: 1 mm for Figures 10&#x2013;13; 100 mm for Figures 14, 15, 17, 18; 200 mm for Figure 16.</caption>
+      <graphic position="float" xlink:href="image-7.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <caption>Figs 28&#x2013;36. Myrmarachne smaragdina sp. nov., male (28, 29, 32&#x2013;34): 28, 29, habitus, dorsal (28) and lateral (29) views; 32, 33, palpal tibia, cymbium and bulb, retrolateral (32), and ventral (33) views; 34, chelicera medio-lateral view; female (30, 31, 35, 36): 30, 31, habitus, dorsal (30) and lateral (31) views; 35, epigyne before maceration; 36, epigyne showing internal ducts. Scale lines: 1 mm for Figures 28&#x2013;31, 34; 100 mm for Figures 32, 33, 35 and 36.</caption>
+      <graphic position="float" xlink:href="image-13.png"/>
+    </fig>
+  </body>
+</article>

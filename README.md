@@ -22,9 +22,11 @@ Journal specific things:
 - Blumea 0006-5196
 - Botanical Studies (Taipei) 1817-406
 - Garden’s Bulletin Singapore 0374-7859
+- Kew Bulletin 1874-933X paywall 
 - Lankesteriana 1409-3871
 - Muelleria 0077-1813
 - Philippine Journal of Science 0031-7683
+- Phytologia 0031-9430
 - Proceedings of The California Academy of Sciences 0068-547X
 - Raffles Bulletin of Zoology 0217-2445
 - South African Journal of Botany (Elsevier open access) 0254-6299
@@ -34,6 +36,7 @@ Journal specific things:
 ### Fails
 
 - Annales Botanici Fennici 0003-3847 (some captions are to the side of the image, need to be clever about this).
+Australian Journal of Entomology 1326-6756 complex multipart figures that overlap with both images and text
 - Bothalia (complex multipart pictures) 0006-8241
 - Bull. Bot. Res., Harbin (Chinese text, images not extracted by pdftoxml) 1673-5102
 - Candollea 0373-2967 (figure captions small and left aligned, current code doesn’t find figs 3 and 4)
@@ -43,6 +46,8 @@ Journal specific things:
 - Plants 2223-7747 (PDF seems complex, but we also have JATS XML)
 - Smithsonian Contributions to Zoology 0081-0282 DOI:10.5479/si.00810282.636.1 got most but some figures are rotated with captions rotated as well :(
 - Thai Forest Bulletin (Botany) 0495-3843 (Composite figure causes problems, e.g. S0495-38432016004400128 )
+
+
 
 
 

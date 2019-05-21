@@ -2,7 +2,7 @@
 
 /* Idea: Parse JATS-XML to extract info we want to upload to BLR in Zenodo */
 
-$filename = 'journal/0372-333X/S0372-333X2015006000039/S0372-333X2015006000039.xml';
+$filename = '../journal/0372-333X/S0372-333X2015006000039/S0372-333X2015006000039.xml';
 
 $xml = file_get_contents($filename);
 

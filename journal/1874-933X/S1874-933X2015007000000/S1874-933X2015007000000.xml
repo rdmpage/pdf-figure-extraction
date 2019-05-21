@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Kew Bulletin</journal-title>
+      </journal-title-group>
+      <issn>1874-933X</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1874-933X2015007000000</article-id>
+      <article-id pub-id-type="doi">10.1007/s12225-015-9569-6</article-id>
+      <title-group>
+        <article-title>Two new species of Begonia (Begoniaceae) from Borneo</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Girmansyah, Deden</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Susanti, Ruliyana</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <day>5</day>
+        <month>5</month>
+        <year>2015</year>
+      </pub-date>
+      <volume>70</volume>
+      <issue>2</issue>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig 1</label>
+      <caption>Begonia mentewangensis. A habit; B male &#xFB02;ower; C female &#xFB02;ower; D fruit. PHOTOS: DEDEN GIRMANSYAH.</caption>
+      <graphic position="float" xlink:href="image-2.jpg"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>Begonia mentewangensis. A habit; B open male &#xFB02;ower; C male &#xFB02;ower tepal with hairs on dorsal side; D stamen; E pistil; F fruit; G fruit in cross section; H female &#xFB02;ower; J female &#xFB02;ower tepals; K stipule; L seed; M bract and bracteole. DRAWN BY ANE</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig. 3</label>
+      <caption>Begonia dolichobracteata. A habit; B male &#xFB02;ower; C female &#xFB02;ower; D fruit. PHOTOS: DEDEN GIRMANSYAH.</caption>
+      <graphic position="float" xlink:href="image-4.jpg"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Fig. 4</label>
+      <caption>Begonia dolichobracteata. A habit; B stamens; C female &#xFB02;ower; D male &#xFB02;ower; E stipule; F bract; G bracteole; H fruit in cross section; J seed; K pistil; L fruit. DRAWN BY ANE KUSUMAWATI.</caption>
+      <graphic position="float" xlink:href="image-5.png"/>
+    </fig>
+  </body>
+</article>
