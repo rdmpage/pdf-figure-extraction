@@ -1,0 +1,70 @@
+{
+    "x": 0,
+    "y": 0,
+    "w": "595.276",
+    "h": "779.528",
+    "text_area": {
+        "x": "51.7323",
+        "y": "54.7457",
+        "w": 488.27570000000003,
+        "h": 660.6421
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "x": "51.7323",
+            "y": "54.7621",
+            "w": 181.223,
+            "h": 13.094200000000008,
+            "text": "Burrowing axiidean lobsters from Papua New Guinea"
+        },
+        {
+            "type": "text",
+            "x": "530.576",
+            "y": "54.7457",
+            "w": 8.57280000000003,
+            "h": 13.0942,
+            "text": "13"
+        },
+        {
+            "type": "text",
+            "x": "52.4409",
+            "y": "519.03",
+            "w": 236.498,
+            "h": 196.3578000000001,
+            "text": "d\u2019Excellence Diversit\u00e9s Biologiques et Culturelles (LabEx BCDiv), the Laboratoire d\u2019Excellence Diversit\u00e9s Biologiques et Culturelles (LabEx BCDiv, ANR-10-LABX-0003-BCDiv), the Programme Investissement d\u2019Avenir (ANR-11-IDEX-0004-02), the Fonds Pacifique, and CNRS Institut Ecologie et Environnement (INEE). The expedition was endorsed by the New Ireland Provincial Administration and operated under a Memorandum of Understanding with the University of Papua New Guinea (UPNG). I am grateful to Laure Corbari, Paula Lefevre-Martin and Anouchka Krygelmans-Sato at MNHN and Zden\u011bk \u010euri\u0161, University of Ostrava, Czech Republic for help in making the collections available. Tin-Yam Chan, National Taiwan Ocean University, Taiwan, and Arthur Anker kindly provided the colour photographs. I thank C. Oliver Coleman (ZMB) for information on the type locality and photographs of the holotype of Allaxius bougainvillensis. Thanks also to S. Keable (AM) and Andrew Hosie (WAM) for arranging loans."
+        },
+        {
+            "type": "text",
+            "x": "303.537",
+            "y": "519.03",
+            "w": 236.46499999999997,
+            "h": 46.43380000000002,
+            "text": "Finally, I acknowledge the support of Philippe Bouchet, expedition funding, MNHN generally, all the divers who collected samples, the expeditioners who sorted them in the field, and the Crosnier Fund for financial support in Paris."
+        },
+        {
+            "type": "text",
+            "x": "303.537",
+            "y": "574.592",
+            "w": 43.81999999999999,
+            "h": 13.319799999999987,
+            "text": "References"
+        },
+        {
+            "type": "text",
+            "x": "303.537",
+            "y": "591.743",
+            "w": 236.47100000000006,
+            "h": 123.23079999999993,
+            "text": "Borradaile, L.A. 1903. On the classification of the Thalassinidea. Annals and Magazine of Natural History (ser. 7) 12: 534\u2013551 + Addendum on p. 638. http:\/\/biodiversitylibrary.org\/page\/29993300 Coelho, P.A., and Ramos-Porto, M. 1991. S\u00ednopse dos crust\u00e1ceos dec\u00e1podos brasilieros (fam\u00edlias Scyllaridae, Palinuridae, Nephropidae, Parastacidae e Axiidae). Anais da Universidade Federal Rural de Pernambuco \u2013 Ci\u00eancias biologicas 8\/10 [1983\u2013 85]: 47\u201388. Holthuis, L.B. 1953. Enumeration of the decapod and stomatopod Crustacea from Pacific coral islands. Atoll Research Bulletin 24: 1\u201366. http:\/\/www.sil.si.edu\/DigitalCollections\/atollresearchbulletin\/ issues\/00024.pdf"
+        },
+        {
+            "type": "text",
+            "x": "52.4409",
+            "y": "474.802",
+            "w": 487.55,
+            "h": 21.40879999999993,
+            "text": "Figure 7. Michelea papua sp. nov., holotype: a, lateral carapace, antenna, antennule, maxilliped 3; b, carapace, antenna, antennule; c, pleomere 6, telson, uropod; d, maxilliped 3; e, f, g, pereopods 1, 3, 4; h, pereopod 5 dactylus; i, j, pleopods 1, 2. Scale bar = 1 mm."
+        }
+    ]
+}

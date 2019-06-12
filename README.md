@@ -36,12 +36,13 @@ Journal specific things:
 ### Fails
 
 - Annales Botanici Fennici 0003-3847 (some captions are to the side of the image, need to be clever about this).
-Australian Journal of Entomology 1326-6756 complex multipart figures that overlap with both images and text
+- Australian Journal of Entomology 1326-6756 complex multipart figures that overlap with both images and text. Interestingly Plazi has managed to process this, e.g. https://zenodo.org/record/269133
 - Bothalia (complex multipart pictures) 0006-8241
 - Bull. Bot. Res., Harbin (Chinese text, images not extracted by pdftoxml) 1673-5102
 - Candollea 0373-2967 (figure captions small and left aligned, current code doesn’t find figs 3 and 4)
 - Contributions To Natural History (1660-9972) all seem to be combined text plus images
 -  Integrative Biosciences (1738-6357) the text comes out with lots of spaces, and the Fig. title is a separate text block from caption(!). Need to handle text with spaces.
+- Memoirs of Museum Victoria (1447-2554) line drawings don’t come out as images!? We would need to find large chunks of white space, or learn how PDF stores line drawings.
 - Nordic Journal 0107-055X (early issue) PDF is OCR’d so need to extract images from page. 
 - Plants 2223-7747 (PDF seems complex, but we also have JATS XML)
 - Smithsonian Contributions to Zoology 0081-0282 DOI:10.5479/si.00810282.636.1 got most but some figures are rotated with captions rotated as well :(

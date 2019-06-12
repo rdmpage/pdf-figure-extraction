@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Memoirs of Museum Victoria</journal-title>
+      </journal-title-group>
+      <issn>1447-2554</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S1447-25542018007700001</article-id>
+      <article-id pub-id-type="doi">10.24199/j.mmv.2018.77.01</article-id>
+      <title-group>
+        <article-title>Burrowing lobsters from shallow coastal environments in Papua New Guinea (Crustacea: Axiidea: Axiidae, Micheleidae)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Gary C. B. Poore</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2018</year>
+      </pub-date>
+      <volume>77</volume>
+      <fpage>1</fpage>
+      <lpage>14</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Figure 1</label>
+      <caption>Alienaxiopsis clypeata (De Man, 1888): a, b, MNHN unregistered (stn PR86). Allaxiopsis picteti (Zehntner, 1894): c, MNHN IU-2013- 1209. Axiopsis pica Kensley, 2003, MNHN IU-2013-7048: d, preserved; e, living. Axiopsis serratifrons A. Milne-Edwards, 1873: f, MNHN IU-2013-638; g, h, MNHN IU-2013-7052; i, MNHN IU-2013-7046; j, MNHN IU-2013-302. Photo credits: AA, a&#x2013;c, e, g&#x2013;j; TYC, f; GCBP, d.</caption>
+      <graphic position="float" xlink:href="image-1.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 2</label>
+      <caption>Parascytoleptus papua Poore and Collins, 2010: a, MNHN IU-2014-2735; b, MNHN IU-2013-7128. Paraxiopsis brocki (De Man, 1888): c, MNHN IU-2013-7108; d, MNHN IU-2014-2736. Ralumcaris bisquamosa (De Man, 1905): e, MNHN IU-2013-7120. Photo credits: AA, b, c, e; TYC, a, d.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+  </body>
+</article>
