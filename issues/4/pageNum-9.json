@@ -1,0 +1,62 @@
+{
+    "x": 0,
+    "y": 0,
+    "w": "603",
+    "h": "796",
+    "text_area": {
+        "x": "52.2992",
+        "y": "56.2227",
+        "w": 494.06080000000003,
+        "h": 664.7132999999999
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "x": "52.2992",
+            "y": "56.2227",
+            "w": 193.848,
+            "h": 10.887,
+            "text": "New Tasmania species of the millipede Gasterogramma"
+        },
+        {
+            "type": "text",
+            "x": "533.364",
+            "y": "56.2227",
+            "w": 12.995999999999981,
+            "h": 10.887,
+            "text": "215"
+        },
+        {
+            "type": "text",
+            "x": "135.921",
+            "y": "362.748",
+            "w": 329.648,
+            "h": 37.787000000000035,
+            "text": "Figure 9. (left) G. tarkinense sp. nov., The Clump, north-west Tasmania, QVM 23:8056; SEM of gonopods in situ. Scale-bar = 0.5 mm. (right) G. tarkinense sp. nov., Wombat Hill, north-west Tasmania, QVM 23:8057; outline sketch of right gonopod showing course of prostatic groove (dashed line)."
+        },
+        {
+            "type": "text",
+            "x": "94.8189",
+            "y": "693.149",
+            "w": 409.00980000000004,
+            "h": 27.78699999999992,
+            "text": "Figure 10. (left) G. wynyardense sp. nov., Inglis R., north-west Tasmania, QVM 23:41909; SEM of gonopods in situ. Scale-bar = 0.5 mm. (right) G. wynyardense sp. nov., Seabrook Creek, north-west Tasmania, QVM 23:40632; outline sketches of right gonopod showing course of prostatic groove (dashed line): lateral view, left; posterior view, right."
+        },
+        {
+            "type": "image",
+            "x": "134.92",
+            "y": "83.9",
+            "w": 332.105,
+            "h": 277.024,
+            "href": "60_2_mesibov2.xml_data\/image-14.png"
+        },
+        {
+            "type": "image",
+            "x": "93.82",
+            "y": "408.15",
+            "w": 411.359,
+            "h": 278.21400000000006,
+            "href": "60_2_mesibov2.xml_data\/image-15.png"
+        }
+    ]
+}
