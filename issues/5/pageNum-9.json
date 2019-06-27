@@ -1,0 +1,70 @@
+{
+    "x": 0,
+    "y": 0,
+    "w": "595.276",
+    "h": "802",
+    "text_area": {
+        "x": "62.35",
+        "y": "30.942",
+        "w": 487.66999999999996,
+        "h": 720.062
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "x": "330.109",
+            "y": "30.942",
+            "w": 182.95499999999998,
+            "h": 11.826,
+            "text": "Emery et al.: New South Wales Myopsalta cicadas"
+        },
+        {
+            "type": "text",
+            "x": "536.446",
+            "y": "31.086",
+            "w": 13.5,
+            "h": 11.826,
+            "text": "193"
+        },
+        {
+            "type": "text",
+            "x": "353.378",
+            "y": "551.042",
+            "w": 196.54799999999994,
+            "h": 51.97000000000003,
+            "text": "Figure 7. Myopsalta coolahensis\u2014illustration of male pygofer and internal genitalia; (A) viewed laterally from the left; (B) viewed ventrally; (D) aedeagus, lateral view; and (D) aedeagus, rotated 30\u00b0 left from central view C. See caption to Fig. 3 for abbreviations."
+        },
+        {
+            "type": "text",
+            "x": "62.35",
+            "y": "627.674",
+            "w": 235.30000000000004,
+            "h": 35.33000000000004,
+            "text": "Etymology. The name is based on the locality where this species has been found\u2014the Coolah region of New South Wales."
+        },
+        {
+            "type": "text",
+            "x": "62.35",
+            "y": "671.674",
+            "w": 235.33,
+            "h": 79.33000000000004,
+            "text": "Description. Male (Figs 2B, 6A\u2013B). Head including outer margins of eyes slightly wider than mesonotum; largely black, with ochraceous triangular marking anterior to ocelli, apex directed anteriorly over postclypeus, ocelli pink to clear; postclypeus black centrally sometimes with central narrow longitudinal ochraceous line extending ventrally along medial surface, black transverse grooves,"
+        },
+        {
+            "type": "text",
+            "x": "314.63",
+            "y": "627.864",
+            "w": 235.39,
+            "h": 123.13999999999999,
+            "text": "lateral margins ochraceous; anteclypeus shiny black; rostrum black, with length almost reaching anterior edge of posterior coxae; eyes black; antennae black, supra-antennal plates black. Thorax mainly black. Pronotum black; pronotal collar shiny black with lateral margins rounded, wider than mesonotum. Mesonotum black; cruciform elevation black, lateral posterior margin variably ochraceous; metanotum black, lighter along dorsal ridge. Legs with coxae striped black and ochraceous longi- tudinally, with black lateral fascia; femora also variably"
+        },
+        {
+            "type": "image",
+            "x": "62.3578",
+            "y": "56.7",
+            "w": 487.55999999999995,
+            "h": 562.5,
+            "href": "1646_complete.xml_data\/image-7.png"
+        }
+    ]
+}

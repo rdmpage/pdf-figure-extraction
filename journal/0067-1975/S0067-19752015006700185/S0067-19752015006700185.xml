@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Records of the Australian Museum</journal-title>
+      </journal-title-group>
+      <issn>0067-1975</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S0067-19752015006700185</article-id>
+      <article-id pub-id-type="doi">10.3853/j.2201-4349.67.2015.1646</article-id>
+      <title-group>
+        <article-title>Redescription of Myopsalta atrata (Goding and Froggatt) and description of two new species of Myopsalta Moulds (Hemiptera: Cicadidae) from central western New South Wales</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Emery, Nathan J.</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Emery, David L.</string-name>
+          </name>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Popple, Lindsay W.</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2015</year>
+      </pub-date>
+      <volume>67</volume>
+      <issue>6</issue>
+      <fpage>185</fpage>
+      <lpage>199</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Figure 1</label>
+      <caption>Myopsalta atrata (Goding &amp; Froggatt). (A) male, Royal National Park (34&#xB0;06'59"S 151&#xB0;03'30"E), dorsal habitus; (B) male, ventral habitus; (C) female, Royal National Park, dorsal habitus; (D) female, ventral habitus; (E) comparison of dorsal habitus of Royal National Park (34&#xB0;06'59"S 151&#xB0;03'30"E) male (top) with lectotype male (New South Wales, ANIC) (bottom); (F) comparison of ventral habitus of Royal NP male (top) with lectotype male (bottom). A&#x2013;F same scale.</caption>
+      <graphic position="float" xlink:href="image-1.jpg"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Figure 2</label>
+      <caption>Photos of male left timbals, with dorsal edge at left and posterior margin at bottom: (A) Myopsalta atrata (Goding &amp; Froggatt), Royal National Park (34&#xB0;06'59"S 151&#xB0;03'30"E); (B) Myopsalta coolahensis sp.nov., Coolah (31&#xB0;56'25"S 149&#xB0;52'18"E); (C) Myopsalta libritor sp.nov., Merriwa (32&#xB0;08'19"S 150&#xB0;21'00"E). Scale bars = 200 &#xB5;m.</caption>
+      <graphic position="float" xlink:href="image-2.jpg"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Figure 3</label>
+      <caption>Myopsalta atrata&#x2014;illustration of male pygofer and internal genitalia; (A) viewed laterally from the left; (B) viewed ventrally; (C) aedeagus, lateral view; and (D) aedeagus, rotated 30&#xB0; left from central view C. Characters include: aed, aedeagus; as, anal style; bpl, basal lobe of pygofer; cl, clasper; db, dorsal beak; eth, endotheca; ps, pseudoparameres; un, uncus; upl, upper lobe of pygofer; vs, ventral support.</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F4" position="float">
+      <label>Figure 4</label>
+      <caption>Male calling song structure of Myopsalta atrata (Goding &amp; Froggatt) illustrated in waveform plot form. Each lower plot is expanded from the one above, to illustrate the finer temporal structure of each song comparison. The spectrogram at the bottom of the figure displays song frequency, which exhibits no modulation between the song components in this species. This specimen was recorded in the field by LWP at Royal National Park (34&#xB0;06'59"S 151&#xB0;03'30"E).</caption>
+      <graphic position="float" xlink:href="image-4.png"/>
+    </fig>
+    <fig id="F5" position="float">
+      <label>Figure 5</label>
+      <caption>Map of eastern Australia showing the geographical distribution of M. atrata (closed circles), M. coolahensis sp.nov. (open squares) and M. libritor sp.nov. (closed triangles).</caption>
+      <graphic position="float" xlink:href="image-5.png"/>
+    </fig>
+    <fig id="F6" position="float">
+      <label>Figure 6</label>
+      <caption>Myopsalta coolahensis sp.nov. (A) male, Coolah (31&#xB0;56'25"S 149&#xB0;52'18"E), dorsal habitus; (B) male, Coolah, ventral habitus; (C) female, Coolah, dorsal habitus; (D) female, Coolah, ventral habitus. Scale bars = 2 mm.</caption>
+      <graphic position="float" xlink:href="image-6.jpg"/>
+    </fig>
+    <fig id="F7" position="float">
+      <label>Figure 8</label>
+      <caption>Male calling song structures of Myopsalta coolahensis sp.nov., illustrated in waveform plot form. Each lower plot is expanded from the one above, to illustrate the finer temporal structure of each song comparison. The spectrogram at the bottom of the figure displays song frequency, which exhibits no modulation between the song components in this species. This specimen was recorded by NJE in the field near Coolah (31&#xB0;56'25"S 149&#xB0;52'18"E) at 10h30 on 14 November 2014.</caption>
+      <graphic position="float" xlink:href="image-8.png"/>
+    </fig>
+    <fig id="F8" position="float">
+      <label>Figure 9</label>
+      <caption>Myopsalta libritor sp.nov. (A) male, Coolah (31&#xB0;47'17"S 149&#xB0;46'27"E), dorsal habitus; (B) male, Coolah, ventral habitus; (C) female, Merriwa (32&#xB0;08'19"S 150&#xB0;21'00"E), dorsal habitus; (D) female, Merriwa, ventral habitus. Scale bars = 2 mm.</caption>
+      <graphic position="float" xlink:href="image-9.jpg"/>
+    </fig>
+    <fig id="F9" position="float">
+      <label>Figure 11</label>
+      <caption>Male calling song structure of Myopsalta libritor sp.nov., illustrated in waveform plot form. Each lower plot is expanded from the one above, to illustrate the finer temporal structure of each song comparison. The spectrogram at the bottom of the figure displays song frequency. The specimen was recorded in grass by NJE at Merriwa (32&#xB0;08'19"S 150&#xB0;21'00"E) at 09h00 on 14 November 2014.</caption>
+      <graphic position="float" xlink:href="image-11.png"/>
+    </fig>
+  </body>
+</article>

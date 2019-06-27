@@ -45,6 +45,7 @@ Journal specific things:
 - Memoirs of Museum Victoria (1447-2554) line drawings don’t come out as images!? We would need to find large chunks of white space, or learn how PDF stores line drawings.
 - Nordic Journal 0107-055X (early issue) PDF is OCR’d so need to extract images from page. 
 - Plants 2223-7747 (PDF seems complex, but we also have JATS XML)
+- Records of the Australian Museum 0067-1975 DOI:10.3853/j.2201-4349.67.2015.1646 has two figures where the caption overlaps the figure.
 - Smithsonian Contributions to Zoology 0081-0282 DOI:10.5479/si.00810282.636.1 got most but some figures are rotated with captions rotated as well :(
 - Thai Forest Bulletin (Botany) 0495-3843 (Composite figure causes problems, e.g. S0495-38432016004400128 )
 
