@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "SYSTEM" "jats-archiving-dtd-1.0/JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Telopea</journal-title>
+      </journal-title-group>
+      <issn>2200-4025</issn>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="pii">S2200-40252021002400303</article-id>
+      <article-id pub-id-type="doi">10.7751/telopea15325</article-id>
+      <title-group>
+        <article-title>Grevillea trichantha, a third species with hairy flowers in the Triloba Group (Proteaceae: Grevilleoideae: Hakeinae) from the Marchagee Track, south-west Western Australia</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <string-name>Olde, Peter</string-name>
+          </name>
+        </contrib>
+      </contrib-group>
+      <pub-date pub-type="ppub">
+        <year>2021</year>
+      </pub-date>
+      <volume>24</volume>
+      <fpage>303</fpage>
+      <lpage>309</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <fig id="F1" position="float">
+      <label>Fig. 1</label>
+      <caption>a. Flowering branchlet of Grevillea trichantha. b. New growth of Grevillea trichantha. c. Grevillea trichantha in natural habitat. Photos: a, c by P.M. Olde; b by I. Gilmour.</caption>
+      <graphic position="float" xlink:href="image-2.png"/>
+    </fig>
+    <fig id="F2" position="float">
+      <label>Fig. 2</label>
+      <caption>Grevillea trichantha. a. Habit. b. Flower bud before anthesis. c. Flower after anthesis. d. Flower without perianth. e. pistil. f. Tepal inner surface. g, h. Leaf variants. i. Follicle. Scale bar: a = 50 mm; b, c = 12.5 mm; d = 10 mm; e, f. = 5 mm; g, h = 25 mm; i = 33 mm. Illustration: M. Pieroni; modified for publication by L. Elkan.</caption>
+      <graphic position="float" xlink:href="image-3.png"/>
+    </fig>
+    <fig id="F3" position="float">
+      <label>Fig. 3</label>
+      <caption>Grevillea metamorpha. a. Leaf. b. Flower bud before anthesis. c. Flower after anthesis. d. Flower without perianth. e. Pistil. f. Tepal inner surface. Scale bar: a = 25 mm; b, c, d = 12.5 mm; e, f. = 6.25 mm. Illustration: M. Pieroni; modified for publication by L. Elkan.</caption>
+      <graphic position="float" xlink:href="image-4.png"/>
+    </fig>
+  </body>
+</article>
